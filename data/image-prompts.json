@@ -1,0 +1,40 @@
+{
+  "generated": "2026-09-21",
+  "tool": "OpenAI image generation",
+  "mode": "generate",
+  "note": "AI-generated concept illustrations, not photographs or evidence of completed projects.",
+  "images": [
+    {
+      "id": "index",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. A sculptural floating island garden shaped like a luminous circular garland with several distinct flower-like neighbourhoods and open pavilions connected by slender curved footbridges. Water, trees, colourful community gardens. Expansive pale sky, optimistic sunrise, cinematic wide view. One elegant giant iridescent glass sphere nestled in the gardens. Rich artful detail, restrained composition."
+    },
+    {
+      "id": "invitation",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. An exquisite circular garland of individually distinct sculptural flowers in coral, golden yellow, lilac, turquoise and warm white, floating above a pale turquoise reflecting pool, their stems connected with delicate gold thread. Several flowers open like tiny amphitheatres. Botanical joy and difference held together. Intimate close view, joyful sunlight."
+    },
+    {
+      "id": "capability",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. An imagined coastal community learning pavilion on a small island, a beautiful translucent amber computing core at its centre, flowing warm-water channels reach a greenhouse and community pool, small solar roofs, gardens, open workshops. Clean architectural miniature, strong diagonal composition, aqua sea, coral paths. Human scale."
+    },
+    {
+      "id": "livelihoods",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. An imaginative shared neighbourhood with an open ceramic workshop, orchard, abundant market table, curved steps, a small clock-shaped circular sun sculpture and inviting restful garden. Architectural miniature suggesting shared ownership, useful work and free time. Apricot, rich coral, buttery yellow, lavender details. Wide composition with one compelling central focal point."
+    },
+    {
+      "id": "intelligence",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. A large translucent pearl-like glass orb containing a small branching garden of luminous paths, surrounded by three smaller distinct orbs, each with different flowers and miniature landscapes. The orbs connect by delicate bridges but remain individually bounded. Sculptural metaphor of personal agency, reflection and shared understanding. Lavender and sea-glass with coral, warm ivory ground."
+    },
+    {
+      "id": "futures",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. A joyful open-air amphitheatre in a lush imagined coastal garden, three large sculptural archways in peach, yellow and turquoise arranged along a circular path signifying past present future. Flower garlands drift gently above. Tiny anonymous stylised people gather near an art stage, small enough not to be portraits. Expansive sunny hopeful horizon."
+    },
+    {
+      "id": "library",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. An extraordinary open-air library of sculptural pastel books and paper-like ceramic leaves, arranged as a calm stepped landscape around a turquoise reflecting pool. A single coral arch frames the horizon. A few translucent glass bookmarks catch golden light. No writing on the books. Dreamy but precise editorial still life, tactile textures."
+    },
+    {
+      "id": "about",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website hero, wide landscape 1536x1024. Art direction: joyful sophisticated surreal architectural miniature, tactile matte ceramic and softly translucent glass, warm ivory, vivid coral, apricot, butter yellow, turquoise and lilac, sunlit luminous atmosphere, art-gallery quality, beautiful nuanced shadows, highly crafted editorial composition, no text, no lettering, no logos, no flags, no watermarks. A clearly imagined future, not a photograph of a real project. An elegant sculptural compass flower made of eight ceramic petals with iridescent glass centre, on a warm white plinth surrounded by curving coloured paths that lead to small distinct architectural gateways. Gentle coastal horizon, coral and yellow petals, mint and lilac shadows. A visual metaphor for a public map, authorship and connected ideas."
+    }
+  ]
+}

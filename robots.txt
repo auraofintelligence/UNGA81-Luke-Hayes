@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auraofintelligence.github.io/UNGA81-Luke-Hayes/sitemap.xml

@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "title": "UNGA81: restoring trust",
+    "category": "Institutional sources",
+    "description": "United Nations General Assembly. Eighty-first session theme and President's framing: “Restoring Trust, Managing Transformation: A United Nations That Delivers for All.”",
+    "links": [
+      {
+        "label": "UNGA81 priorities",
+        "url": "https://www.un.org/pga/81/priorities/"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 2,
+    "title": "Insecurity, inequality and trust",
+    "category": "Institutional sources",
+    "description": "United Nations. Work on the connections between economic insecurity, inequality, declining trust and social fragmentation, cited in the opening discussion.",
+    "links": [
+      {
+        "label": "World Social Report 2025 (PDF)",
+        "url": "https://desapublications.un.org/file/21124/download"
+      }
+    ],
+    "status": "Source linked",
+    "note": "Supporting primary source added for the web edition. The original register did not identify an exact publication.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 3,
+    "title": "Suicide and its contributing factors",
+    "category": "Institutional sources",
+    "description": "World Health Organization. Suicide estimates and discussion of social, psychological, biological and environmental factors; the original cites 727,000 estimated deaths in 2021.",
+    "links": [
+      {
+        "label": "WHO suicide fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/suicide"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 4,
+    "title": "Family choices and the cost of living",
+    "category": "Institutional sources",
+    "description": "United Nations Population Fund. 2025 survey findings across 14 countries on financial limitations, desired family size and fears about the future.",
+    "links": [
+      {
+        "label": "UNFPA 2025 findings",
+        "url": "https://www.unfpa.org/press/unfpa-report-links-falling-birth-rates-cost-living-sexist-norms-fear-future"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 5,
+    "title": "Mental health at work",
+    "category": "Institutional sources",
+    "description": "World Health Organization. Guidance on mental health at work, including excessive workloads, inadequate pay, insecurity, low control, discrimination and poor working conditions.",
+    "links": [
+      {
+        "label": "WHO mental health at work",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 6,
+    "title": "Social-media minimum age",
+    "category": "Institutional sources",
+    "description": "Australian eSafety Commissioner. Guidance on Australia's social-media minimum-age requirements, commencing 10 December 2025, and platform responsibilities.",
+    "links": [
+      {
+        "label": "eSafety requirements",
+        "url": "https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 7,
+    "title": "United States AI policy",
+    "category": "Institutional sources",
+    "description": "White House. January 2025 artificial intelligence policy concerning American global AI dominance.",
+    "links": [
+      {
+        "label": "January 2025 executive order",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 8,
+    "title": "Department of War secondary title",
+    "category": "Institutional sources",
+    "description": "White House. 2025 executive order authorising “Department of War” as a secondary title for the Department of Defense, while retaining its statutory name unless changed by Congress.",
+    "links": [
+      {
+        "label": "White House fact sheet",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-restores-the-united-states-department-of-war/"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 9,
+    "title": "AUKUS advanced capabilities",
+    "category": "Institutional sources",
+    "description": "Australian Department of Defence. AUKUS Pillar II advanced-capability priorities, including artificial intelligence, autonomy, quantum, cyber, electronic warfare, hypersonics and undersea systems.",
+    "links": [
+      {
+        "label": "Defence: AUKUS Pillar II",
+        "url": "https://www.defence.gov.au/defence-activities/programs-initiatives/aukus-advanced-capabilities"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 10,
+    "title": "Ocean of Peace Alliance and Vuvale Union",
+    "category": "Institutional sources",
+    "description": "Australian Government. July 2026 announcements and treaty material concerning the Ocean of Peace Alliance (Veitacini Treaty) and Fiji-Australia Vuvale Union.",
+    "links": [
+      {
+        "label": "DFAT treaty material",
+        "url": "https://www.dfat.gov.au/countries/fiji/ocean-peace-alliance-veitacini-treaty"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 11,
+    "title": "Recovering computing heat",
+    "category": "Institutional sources",
+    "description": "International Energy Agency. Data-centre heat recovery and district-heating examples in Stockholm and Finland; the original cites roughly 70 to 80 per cent recovery using heat pumps.",
+    "links": [
+      {
+        "label": "IEA heat recovery discussion",
+        "url": "https://www.iea.org/commentaries/opportunities-for-district-heating-in-the-changing-energy-landscape"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 12,
+    "title": "Generative AI and jobs",
+    "category": "Institutional sources",
+    "description": "International Labour Organization. 2025 assessment of occupational exposure to generative artificial intelligence, including the estimate that one in four workers globally have some exposure and that transformation is more likely than complete replacement for most exposed occupations.",
+    "links": [
+      {
+        "label": "ILO 2025 assessment",
+        "url": "https://www.ilo.org/publications/generative-ai-and-jobs-2025-update"
+      }
+    ],
+    "status": "Source linked",
+    "note": "",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 13,
+    "title": "The 2016 scenario and the Great Reset",
+    "category": "Institutional sources",
+    "description": "World Economic Forum. Speculative 2016 future scenario associated with “you'll own nothing and you'll be happy”; separately, the Great Reset initiative launched during COVID.",
+    "links": [
+      {
+        "label": "WEF: the Great Reset, 2020",
+        "url": "https://www.weforum.org/stories/2020/06/now-is-the-time-for-a-great-reset/"
+      }
+    ],
+    "status": "Partly linked",
+    "note": "The 2020 initiative is linked. The exact 2016 scenario link remains to be confirmed; they are separate publications.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 14,
+    "title": "Truthfulness and electoral accountability",
+    "category": "Institutional sources",
+    "description": "Senedd Cymru Member Accountability and Elections Act 2026. Accountability provisions and requirements concerning false or misleading statements of fact intended to affect electoral outcomes.",
+    "links": [
+      {
+        "label": "Welsh Government: the 2026 Act",
+        "url": "https://www.gov.wales/senedd-cymru-member-accountability-and-elections-act-2026"
+      }
+    ],
+    "status": "Source linked",
+    "note": "Part 3 requires ministers to make provision about electoral misstatements. Read the Act and commencement details for its legal scope.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 15,
+    "title": "Biological risk and AI safeguards",
+    "category": "Institutional sources",
+    "description": "OpenAI. Published discussion of increasingly capable AI lowering barriers to harmful biological work and associated safeguards.",
+    "links": [
+      {
+        "label": "OpenAI biology safeguards",
+        "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology/"
+      }
+    ],
+    "status": "Source linked",
+    "note": "Supporting primary source added for the web edition. The original register did not identify an exact publication.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 16,
+    "title": "Heightened AI safeguards",
+    "category": "Institutional sources",
+    "description": "Anthropic. Published discussion of heightened safeguards concerning chemical, biological, radiological and nuclear risks.",
+    "links": [
+      {
+        "label": "Anthropic ASL-3 protections",
+        "url": "https://www.anthropic.com/news/activating-asl3-protections"
+      }
+    ],
+    "status": "Source linked",
+    "note": "Supporting primary source added for the web edition. The original register did not identify an exact publication.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 17,
+    "title": "AUKUS Public Inquiry submission",
+    "category": "Author documents",
+    "description": "Hayes, Luke Nathan. AUKUS Public Inquiry submission, 2026. Original file reference: AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx.",
+    "links": [],
+    "status": "Awaiting document",
+    "note": "Named in the original PDF. The separate document has not yet been supplied to this library."
+  },
+  {
+    "id": 18,
+    "title": "Veitacini Treaty submission",
+    "category": "Author documents",
+    "description": "Hayes, Luke Nathan. Ocean of Peace Alliance / Veitacini Treaty submission, 2026. Original file reference: Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026(8).docx.",
+    "links": [],
+    "status": "Awaiting document",
+    "note": "Named in the original PDF. The separate document has not yet been supplied to this library."
+  },
+  {
+    "id": 19,
+    "title": "BE LAU Protopian Gambit",
+    "category": "Author documents",
+    "description": "Hayes, Luke Nathan. BE LAU Protopian Gambit Pacific discussion paper, 2026. Original file reference: BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026(2).docx.",
+    "links": [],
+    "status": "Awaiting document",
+    "note": "Named in the original PDF. The separate document has not yet been supplied to this library."
+  },
+  {
+    "id": 20,
+    "title": "Strange but True",
+    "category": "Connected projects",
+    "description": "Strange but True: Tech, art and ideas that'll help.",
+    "links": [
+      {
+        "label": "strange but true on GitHub",
+        "url": "https://github.com/auraofintelligence/strange-but-true"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 21,
+    "title": "Mutual Futures",
+    "category": "Connected projects",
+    "description": "Mutual Futures. Voluntary business succession, member ownership, technological upgrading and connected livelihood experiments.",
+    "links": [
+      {
+        "label": "mutual futures on GitHub",
+        "url": "https://github.com/auraofintelligence/mutual-futures"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 22,
+    "title": "Try Everything Once and ready SET",
+    "category": "Connected projects",
+    "description": "Try Everything Once; ready SET Co-op (ready sustainable employment and training cooperative). Supported work exploration, learning, workplaces and mentors.",
+    "links": [
+      {
+        "label": "ready set co op trust hub on GitHub",
+        "url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub"
+      }
+    ],
+    "status": "Partly linked",
+    "note": "Related ready SET public work is linked. A separate Try Everything Once resource remains to be added.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 23,
+    "title": "Time, intelligence and adequate income",
+    "category": "Connected projects",
+    "description": "Intermittent Retirement; Universal Intelligence; Universal Adequate Income. Proposals concerning time, access to intelligence and adequate livelihoods.",
+    "links": [],
+    "status": "Awaiting link",
+    "note": "These proposals are included in the livelihoods chapter. A separate reference document or URL remains to be added."
+  },
+  {
+    "id": 24,
+    "title": "De-Slop and Aura Geode",
+    "category": "Connected projects",
+    "description": "De-Slop; Aura Geode; Oceania Healthy De-Slop Co-ops. Author's beliefs and proposed research into individually tailored food, fasting, movement, sleep, heat, cold, light, sound and hyperbaric approaches; affordable and free everyday access; shared facilities, personal data stewardship and local computing.",
+    "links": [
+      {
+        "label": "aura geode on GitHub",
+        "url": "https://github.com/auraofintelligence/aura-geode"
+      },
+      {
+        "label": "Oceania healthy de slop co ops on GitHub",
+        "url": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 25,
+    "title": "Australian law and legal tools",
+    "category": "Connected projects",
+    "description": "Australian Law 2012: Luke's Relevance; Australian Legal Engine. Legal reflection and tools for organising and retrieving Australian law with source references.",
+    "links": [
+      {
+        "label": "australian law 2012 lukes relevance on GitHub",
+        "url": "https://github.com/auraofintelligence/australian-law-2012-lukes-relevance"
+      },
+      {
+        "label": "australian legal engine on GitHub",
+        "url": "https://github.com/auraofintelligence/australian-legal-engine"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 26,
+    "title": "Aura of Intelligence and Aura Genesis",
+    "category": "Connected projects",
+    "description": "Aura of Intelligence; Aura Genesis. Personal digital twins, self-sovereignty and voluntary reflection supporting human self-alignment and AI alignment.",
+    "links": [
+      {
+        "label": "aura of intelligence pathways on GitHub",
+        "url": "https://github.com/auraofintelligence/aura-of-intelligence-pathways"
+      },
+      {
+        "label": "aura genesis on GitHub",
+        "url": "https://github.com/auraofintelligence/aura-genesis"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 27,
+    "title": "P4A",
+    "category": "Connected projects",
+    "description": "P4A (proposed Purple Party for Australia). Civic understanding, legal reflection, modelling, simulation, humour and the proposed cyber-republic horizon.",
+    "links": [
+      {
+        "label": "p4a xyz on GitHub",
+        "url": "https://github.com/auraofintelligence/p4a_xyz"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 28,
+    "title": "The Braided Economy and C-Hours",
+    "category": "Connected projects",
+    "description": "The Braided Economy; Community-Hours (C-Hours).",
+    "links": [
+      {
+        "label": "C Hour introduction on GitHub",
+        "url": "https://github.com/auraofintelligence/C-Hour-introduction"
+      }
+    ],
+    "status": "Partly linked",
+    "note": "The public C-Hour introduction is linked. A separate Braided Economy resource remains to be added.",
+    "checked": "2026-09-21"
+  },
+  {
+    "id": 29,
+    "title": "GAJRA Earth",
+    "category": "Connected projects",
+    "description": "G.A.J.R.A. Earth, Global Association for Joyful Responsible Abundance on Earth. Cross-cultural inquiry, practical cooperation and the proposed July 2035 Past, Present and Future gathering.",
+    "links": [
+      {
+        "label": "gajra earth public hub on GitHub",
+        "url": "https://github.com/auraofintelligence/gajra-earth-public-hub"
+      }
+    ],
+    "status": "Project linked",
+    "note": "Public project repository. Proposals and prototypes retain their stated development status.",
+    "checked": "2026-09-21"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "added": "2026-09-21",
+  "documents": [
+    {
+      "reference": 17,
+      "filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+      "sha256": "1fcc88fe31b0192107683880a9c21c4ce7e83b63e91b576316e618e43363ffea",
+      "bytes": 43828,
+      "source_location": "Downloads/Submission_Pack",
+      "preserved_unchanged": true,
+      "duplicate_check": "Identical AUKUS copy inside submission ZIP omitted.",
+      "version_note": "Local basename has no numbered download suffix; cited numbered copy was not available for byte comparison.",
+      "document_date": "2026-08-24",
+      "selection": "Only matching AUKUS submission Word version found. Archive member is byte-identical. The longer Eggs in One Basket document addresses a separate Senate AI and data-centres inquiry and was not substituted.",
+      "metadata_note": "Internal core dates retain a template timestamp, so they were not used as evidence of the submission date.",
+      "version_check_date": "2026-09-21"
+    },
+    {
+      "reference": 18,
+      "filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+      "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a",
+      "bytes": 40964,
+      "source_location": "Downloads",
+      "preserved_unchanged": true,
+      "duplicate_check": "One matching Word original found in Downloads.",
+      "version_note": "Local basename has no numbered download suffix; cited numbered copy was not available for byte comparison.",
+      "word_revision": "2",
+      "word_modified_utc": "2026-08-28T04:23:00Z",
+      "selection": "Latest matching Word file found. All matching copies in the checked local project were byte-identical. The Vuvale Union paper is a separate submission.",
+      "version_check_date": "2026-09-21"
+    },
+    {
+      "reference": 19,
+      "filename": "BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+      "sha256": "efec152fbe572db281a3fe30ccb7a8b585324b5e3beaa1363072a6fd0ed7c3f9",
+      "bytes": 119498,
+      "source_location": "Downloads",
+      "preserved_unchanged": true,
+      "duplicate_check": "One matching Word original found in Downloads.",
+      "version_note": "Local basename has no numbered download suffix; cited numbered copy was not available for byte comparison.",
+      "word_revision": "3",
+      "word_modified_utc": "2026-08-27T12:41:00Z",
+      "selection": "Later author-edited Word version selected over Markdown dated 21 August. Text comparison confirms substantive additions, including consumer-grade computing, personal AI and equal Community-Hours.",
+      "version_check_date": "2026-09-21"
+    }
+  ],
+  "scope": "Matching filenames and document contents in Downloads, the submission ZIP, and matching copies in a local reference project. These are the latest matching versions found in that local scope, not a claim about unavailable copies elsewhere."
+}

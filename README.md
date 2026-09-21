@@ -37,6 +37,12 @@ The five reading chapters preserve the PDF’s body wording. Line and column bre
 
 All 29 reference descriptions are retained. Broken filename line wraps in entries 17 to 19 have been joined. Added links are labelled when they are supporting sources, related projects or incomplete matches. This is a publication of the contribution, not an independent fact-check of every claim. Proposals and prototypes retain their stated status.
 
+## Included original papers
+
+Entries 17 to 19 contain one unchanged Word original each. AUKUS is dated 24 August 2026; Veitacini is Word revision 2 edited 28 August; BE LAU is revision 3 edited 27 August, including author edits absent from the earlier Markdown copy. Matching archive and local duplicates were omitted. These are the latest matching versions found in the checked local files; the numbered download copies cited by the PDF were not available for byte comparison.
+
+[Document provenance and checksums](data/document-provenance.json). The similarly titled Senate AI submission and the separate Vuvale Union paper were not substituted. Word files can also be opened using the free LibreOffice suite.
+
 ## Adding a reference document
 
 This can be done entirely on GitHub:

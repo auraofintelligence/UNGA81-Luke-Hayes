@@ -260,30 +260,51 @@
     "title": "AUKUS Public Inquiry submission",
     "category": "Author documents",
     "description": "Hayes, Luke Nathan. AUKUS Public Inquiry submission, 2026. Original file reference: AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx.",
-    "links": [],
-    "status": "Awaiting document",
-    "note": "Named in the original PDF. The separate document has not yet been supplied to this library.",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "links": [
+      {
+        "label": "Download original Word document (.docx)",
+        "url": "documents/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx"
+      }
+    ],
+    "status": "Document available",
+    "note": "Unchanged AUKUS submission dated 24 August 2026. Duplicate archive copy omitted. The similarly titled Senate AI paper is a different submission. The located filename omits the numbered download suffix cited in the PDF.",
+    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
+    "document_filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+    "sha256": "1fcc88fe31b0192107683880a9c21c4ce7e83b63e91b576316e618e43363ffea"
   },
   {
     "id": 18,
     "title": "Veitacini Treaty submission",
     "category": "Author documents",
     "description": "Hayes, Luke Nathan. Ocean of Peace Alliance / Veitacini Treaty submission, 2026. Original file reference: Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026(8).docx.",
-    "links": [],
-    "status": "Awaiting document",
-    "note": "Named in the original PDF. The separate document has not yet been supplied to this library.",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "links": [
+      {
+        "label": "Download original Word document (.docx)",
+        "url": "documents/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx"
+      }
+    ],
+    "status": "Document available",
+    "note": "Unchanged Word revision 2, last edited 28 August 2026. Matching local copies were byte-identical. The located filename omits the numbered download suffix cited in the PDF.",
+    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
+    "document_filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+    "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a"
   },
   {
     "id": 19,
     "title": "BE LAU Protopian Gambit",
     "category": "Author documents",
     "description": "Hayes, Luke Nathan. BE LAU Protopian Gambit Pacific discussion paper, 2026. Original file reference: BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026(2).docx.",
-    "links": [],
-    "status": "Awaiting document",
-    "note": "Named in the original PDF. The separate document has not yet been supplied to this library.",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "links": [
+      {
+        "label": "Download original Word document (.docx)",
+        "url": "documents/BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx"
+      }
+    ],
+    "status": "Document available",
+    "note": "Unchanged Word revision 3, last edited 27 August 2026. This includes author edits absent from the earlier Markdown copy. The located filename omits the numbered download suffix cited in the PDF.",
+    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
+    "document_filename": "BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+    "sha256": "efec152fbe572db281a3fe30ccb7a8b585324b5e3beaa1363072a6fd0ed7c3f9"
   },
   {
     "id": 20,

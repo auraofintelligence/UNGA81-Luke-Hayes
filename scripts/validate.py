@@ -55,6 +55,16 @@ for r in refs:
   if not u.scheme:require((ROOT/unquote(u.path)).is_file(),f'Missing document in reference {r["id"]}')
 for name in ['index','invitation','capability','livelihoods','intelligence','futures','library','about']:
  require((ROOT/f'assets/images/{name}-1536.webp').is_file(),f'Missing unique hero for {name}')
+provenance=ROOT/'data/document-provenance.json'
+if provenance.exists():
+ records=json.loads(provenance.read_text(encoding='utf-8'))['documents'];hashes=[]
+ for record in records:
+  path=ROOT/'documents'/record['filename']
+  require(path.is_file(),f'Missing original {record["filename"]}')
+  if path.is_file():
+   digest=hashlib.sha256(path.read_bytes()).hexdigest();hashes.append(digest)
+   require(digest==record['sha256'],f'Original changed: {record["filename"]}')
+ require(len(hashes)==len(set(hashes)),'Duplicate original documents')
 if errors:
  print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(pages)} HTML pages; local links, anchors, source fidelity, original PDF checksum and {len(refs)} references.')

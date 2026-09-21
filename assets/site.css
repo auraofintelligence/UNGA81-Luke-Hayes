@@ -9,3 +9,11 @@
 @media print{body{background:white;color:black;font:11pt/1.6 Georgia}.wrap{width:100%;margin:0}.site-header,.contents,.hero-art,.back-top,.reading-progress,.footer,.library-tools,.compass-controls,.skip-link{display:none!important}.page-intro,.home-intro,.reading-layout,.section-heading,.about-grid,.chapter-grid,.reference-grid{display:block;padding:0}.page-intro h1,.home-intro h1{font-size:32pt}.page-intro .lead{font-size:13pt;margin:15pt 0}.prose{font-size:11pt}.prose h2{font-size:20pt;break-after:avoid}.reading-section{margin-bottom:24pt}.reference-card{break-inside:avoid;margin:15pt 0}.reference-card[hidden]{display:block!important}.licence-details:not([open]){display:none}a{color:black}.document-feature,.quote-panel,.compass{padding:20pt;background:none;border:1px solid #aaa}h2{font-size:24pt}.source-strip{padding:20pt 0}.card-art{display:none}.chapter-card{margin:18pt 0}.library-card{min-height:0}.reading-section p{orphans:3;widows:3}}
 
 .brand-mark{width:42px;height:42px;flex-shrink:0;border-radius:50%}.document-cover>.brand-mark{width:35px;height:35px}html:not(.js) .back-top{opacity:1;pointer-events:auto;transform:none}@media(max-width:760px){.brand-mark{width:34px;height:34px}}
+
+.reading-art{margin:42px 0 12px;break-inside:avoid}
+.reading-art>img{width:100%;height:auto;border-radius:22px;background:#eee9dd}
+.reading-art figcaption{padding:15px 3px 0;display:grid;gap:6px;font:17px/1.5 var(--sans);color:var(--ink);letter-spacing:-.015em}
+.reading-art figcaption small{font-size:11px;line-height:1.5;letter-spacing:0;color:var(--muted)}
+.reading-art+p{margin-top:32px}
+@media(max-width:760px){.reading-art{margin:30px 0 8px}.reading-art>img{border-radius:17px}.reading-art figcaption{font-size:15px;padding-top:12px}.reading-art figcaption small{font-size:10px}.reading-art+p{margin-top:26px}}
+@media print{.reading-art{display:none}}

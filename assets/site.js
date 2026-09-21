@@ -1,3 +1,4 @@
+document.documentElement.classList.add('js');
 const $ = s => document.querySelector(s);
 const words = {
   joyful: ['Did life become more worth living?', 'Relationships, curiosity, belonging, creativity, music, travel, laughter, rest and time to enjoy them.'],

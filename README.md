@@ -95,9 +95,11 @@ There are no analytics, advertising, accounts, third-party embeds or tracking co
 
 ## GenAI image provenance
 
-Eight heroes and the garland icon were generated with OpenAI image generation on 21 September 2026. They are imagined editorial concepts, not evidence of completed buildings, working technology, real events or institutional participation.
+Eight heroes, fourteen chapter illustrations and the garland icon were generated with OpenAI image generation on 21 September 2026. They are imagined editorial concepts, not evidence of completed buildings, working technology, real events or institutional participation.
 
-[Hero prompts](data/image-prompts.json) · [Favicon prompt](data/favicon-prompt.json) · [Image files](assets/images/) · [Favicon master](assets/images/gajra-icon-master.png).
+The three future Aura scenes show smart wearables delivering useful guidance during repair, travel and shared learning. They draw on the author's July 2023 Aura document and [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/). The horn-torus programming structure is only one layer of Aura. These scenes illustrate its intended everyday use; they do not imply that Matrix Studio currently connects to wearables. Images are provided in two responsive sizes, load as the reader approaches them and include captions and meaningful alternatives.
+
+[Hero prompts](data/image-prompts.json) · [Chapter illustration prompts](data/inline-illustrations.json) · [Favicon prompt](data/favicon-prompt.json) · [Image files](assets/images/) · [Favicon master](assets/images/gajra-icon-master.png).
 
 Heroes use 768px and 1536px WebP variants. The garland has ICO, PNG, Apple touch icon and web-manifest versions. Original hero masters remain with the author; the generated favicon master is included here.
 

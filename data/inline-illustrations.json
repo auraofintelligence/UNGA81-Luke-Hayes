@@ -1,0 +1,157 @@
+{
+  "generated": "2026-09-21",
+  "tool": "OpenAI image generation",
+  "mode": "generate",
+  "note": "Original AI-generated editorial concepts, not photographs or evidence of completed projects.",
+  "images": [
+    {
+      "id": "dialogue",
+      "page": "invitation",
+      "section": "The invitation",
+      "caption": "Distinct voices, a shared conversation.",
+      "alt": "An imagined gathering of people of different generations around a circular table, with separate flowers connected in a garland.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. Intimate overhead three-quarter view of a circular garden table where diverse adults, elders and children hold different ceramic flowers and connect them into a garland. Everyone remains an individual. Tea, sketches and open notebooks without lettering. Welcoming atmosphere of reciprocal listening, leafy shade and filtered golden light."
+    },
+    {
+      "id": "possibility",
+      "page": "invitation",
+      "section": "Why trust is difficult",
+      "caption": "A fair go includes places to learn, make and belong.",
+      "alt": "An imagined open community workshop where young people make music, repair a bicycle and tend seedlings alongside mentors.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A joyful open-air community learning courtyard with three connected workspaces: young people and adult mentors repairing a bicycle, recording music with modest equipment, and growing seedlings. Playful turquoise workbenches and coral archways. Close human-scale vignette; tools anatomically plausible, no floating tech overlays. Inviting practical possibilities."
+    },
+    {
+      "id": "civic-compute",
+      "page": "capability",
+      "section": "Capability without domination",
+      "caption": "Useful intelligence, close to the people who use it.",
+      "alt": "An imagined community computing room beside a library and garden, with residents learning around shared equipment.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. Human-scale public library workshop with a modest beautifully designed community computing cabinet behind glass, a few adults studying reef models on unlettered screens, and open doors into a coastal garden. Realistic equipment dimensions but imaginative ceramic architectural visual language. Computing as useful neighbourhood infrastructure, calm and welcoming rather than enormous corporate data centre."
+    },
+    {
+      "id": "heat-twice",
+      "page": "capability",
+      "section": "The missing middle of AI",
+      "caption": "One source of energy, more than one useful purpose.",
+      "alt": "A conceptual miniature linking a computing room, greenhouse and warm-water pool through visible copper-coloured channels.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. An elegant cutaway miniature of three connected spaces: a small computing room, a productive greenhouse and a community warm-water pool. Flowing copper-coloured thermal channels visibly link the spaces. Soft rising vapour over warm water, flourishing plants, no arrows or labels. This is poetic conceptual infrastructure, not an engineering diagram. Side-on wide composition showing all three spaces."
+    },
+    {
+      "id": "shared-ownership",
+      "page": "livelihoods",
+      "section": "Mutual Futures",
+      "caption": "Productive places, with a shared stake in what comes next.",
+      "alt": "An imagined neighbourhood workshop where several workers gather around a shared workbench and a small model of their business.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A warm working neighbourhood workshop, diverse adult makers around a broad shared workbench, crafted wooden objects, tools, small robotic helper arm doing a mundane task, plants at open windows. A miniature model of their workshop sits between them as they plan together. Visual metaphor for worker ownership and voluntary succession. No money symbols, charts, business suits or handshakes."
+    },
+    {
+      "id": "time-to-live",
+      "page": "livelihoods",
+      "section": "Intermittent Retirement",
+      "caption": "Time for learning, caring, creating and simply being.",
+      "alt": "An imagined garden with spaces for painting, reading, family care and rest arranged around an open circular path.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A luminous garden showing ordinary freed time: an adult painting at an easel, an elder and child reading together, someone resting in a hammock, another learning a musical instrument. Spacious circular path around a tranquil pond. A simple golden sundial in the foreground without text. Unhurried, meaningful everyday life. No luxury resort advertising aesthetic."
+    },
+    {
+      "id": "community-care",
+      "page": "livelihoods",
+      "section": "Health and everyday access",
+      "caption": "Shared spaces for everyday care and recovery.",
+      "alt": "An imagined community garden and shared kitchen beside calm spaces for movement and rest.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A beautiful accessible community kitchen opening into edible gardens and a quiet shaded movement courtyard, diverse adults preparing colourful food and watering plants, one wheelchair user sharing the table. Ordinary practical care, food, rest and connection. Warm light, glazed turquoise tiles, coral ceramics. No medical machines, pills, detox symbolism or claims of treatment."
+    },
+    {
+      "id": "civic-voices",
+      "page": "intelligence",
+      "section": "P4A and democratic participation",
+      "caption": "Public choices people can understand and help shape.",
+      "alt": "An imagined civic gathering around a physical neighbourhood model, with people discussing different possible arrangements.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A small lively civic gathering of ordinary adults around a tactile neighbourhood model with movable coral and lilac buildings, miniature trees and shared paths. A resident holds a model piece while others consider alternatives. Friendly diverse perspectives, humour, engaged participation. A modest open-air forum with no political flags, party branding, speaker dominating audience or futuristic surveillance screens."
+    },
+    {
+      "id": "reasons-to-continue",
+      "page": "futures",
+      "section": "What makes anyone want the game to continue?",
+      "after_block": 6,
+      "caption": "Relationships and possibilities that make the future worth continuing.",
+      "alt": "An imagined evening neighbourhood where people share a meal, play music and watch children explore a garden.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A tender wide dusk scene of a neighbourhood shared meal under lanterns, adults laughing gently, musicians in the background, children exploring a small garden path, warm home windows, a calm sea beyond. An ordinary yet beautiful future people have reasons to care for. Warm coral, golden and teal light, no disaster imagery, danger symbols, red buttons or heroic saviour figure."
+    },
+    {
+      "id": "learning-garland",
+      "page": "futures",
+      "section": "How GAJRA Earth could work",
+      "caption": "Local experiments, connected through shared learning.",
+      "alt": "Small distinct garden communities linked in a circular garland, each showing a different local activity.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A refined tabletop miniature of seven DISTINCT small community garden islands connected as a loose circular GARLAND by narrow paths. Each has one activity: dialogue table, quiet reflection nook, art studio, workshop, ecological observation garden, shared library, meeting circle. Distinct communities stay separate while connected. No single giant flower, no map borders, no text, no arrows. An image of voluntary shared learning."
+    },
+    {
+      "id": "past-present-future",
+      "page": "futures",
+      "section": "From now to July 2035",
+      "caption": "Past, present and future, brought into the same conversation.",
+      "alt": "Three connected spaces in an imagined coastal gathering: an archive garden, a lively making space and an open horizon.",
+      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A contemplative panoramic triptych WITHOUT panel borders: on the left an archive garden with old ceramic vessels and mature trees; centre a lively community making space with people experimenting and sharing art; right a luminous path opening towards young trees and the sea horizon. One continuous coastal landscape. Subtle festive flower garlands overhead made of many distinct flowers. Past, present and future as connected perspectives, no dates or lettering."
+    },
+    {
+      "id": "aura-repair-guidance",
+      "page": "capability",
+      "section": "A Protopian Gambit",
+      "caption": "Future Aura concept: the next useful instruction, while your hands are busy.",
+      "alt": "A person wearing smart glasses repairs a bicycle, with a small inset showing a single visual instruction beside the component.",
+      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. At a sunlit coastal community repair workshop, a young adult wearing realistic slim clear-lens smart glasses with visible electronic temples carefully repairs a bicycle gear assembly alongside an older mentor. Hands physically work with a hex key; tools and real parts are orderly. The main scene shows the wearables naturally, eyes remain visible. Add one elegantly integrated rectangular editorial inset occupying upper right quarter that explicitly visualises the wearer's first-person view: the actual gear assembly, with one precise mint arrow to the bolt and one tiny simplified tool icon. The view is otherwise unobstructed. No written text, no giant floating interface in the room. Real learning and useful assistance, a person engaged in the task.",
+      "sourceBasis": {
+        "document": "Version7 Aura of Intelligence 2023 July.pdf",
+        "pages": [
+          4,
+          5,
+          19,
+          20,
+          24
+        ],
+        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
+        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
+      }
+    },
+    {
+      "id": "aura-timely-travel",
+      "page": "intelligence",
+      "section": "Aura Genesis and dual alignment",
+      "caption": "Future Aura concept: timely travel help through glasses, audio or a wrist display.",
+      "alt": "A traveller wearing smart glasses and an earpiece pauses by a ferry terminal, with a wrist display and a small inset illustrating a simple route cue.",
+      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. A relaxed middle-aged traveller pauses at an Australian subtropical ferry terminal garden overlooking a turquoise bay. They wear subtle but visibly technological clear smart glasses, a small open-ear audio device, and a practical smartwatch whose display they can glance at. A small carry bag beside them, ferry and jetty in the distance, people going about their lives. Three-quarter waist-up composition allows wearable details. One small integrated editorial inset at upper right shows a minimal wearer-view route: a single pale mint directional arrow aligned with the real path to the ferry, plus a small ferry icon. No wall of data, no written text. Technology serves this immediate real-world moment, friendly self-directed experience, spare attention left for life.",
+      "sourceBasis": {
+        "document": "Version7 Aura of Intelligence 2023 July.pdf",
+        "pages": [
+          4,
+          5,
+          19,
+          20,
+          24
+        ],
+        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
+        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
+      }
+    },
+    {
+      "id": "aura-shared-learning",
+      "page": "futures",
+      "section": "An invitation to the United Nations and the world",
+      "caption": "Future Aura concept: shared learning, with guidance suited to each person.",
+      "alt": "Three people wearing smart glasses learn to maintain a community garden irrigation system, with a small inset highlighting one useful next step.",
+      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. Three adults of different ages and backgrounds collaborating in a lush coastal community garden, learning to maintain a compact real irrigation assembly on a raised bed. Two wear clear-lens smart glasses and the third uses a small handheld tablet: accessible choice of format. One person points to the real physical valve, one uses a hand tool, the third consults a simple diagram on their tablet. No gigantic projected objects. A single tasteful editorial inset at top right visualises one wearer's first-person view of the valve with a precise coral highlight and a single mint next-step arrow, no writing. Warm human connection with practical technology, vegetables, water tank and workshop in background. Show people learning together, not staring at abstract symbols.",
+      "sourceBasis": {
+        "document": "Version7 Aura of Intelligence 2023 July.pdf",
+        "pages": [
+          4,
+          5,
+          19,
+          20,
+          24
+        ],
+        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
+        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
+      }
+    }
+  ]
+}

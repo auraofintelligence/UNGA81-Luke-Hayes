@@ -2,156 +2,193 @@
   "generated": "2026-09-21",
   "tool": "OpenAI image generation",
   "mode": "generate",
-  "note": "Original AI-generated editorial concepts, not photographs or evidence of completed projects.",
+  "note": "Source-grounded imagined concepts. Speculative horizons and future research are identified in captions; no completed project is implied. See data/visual-direction.md.",
   "images": [
     {
       "id": "dialogue",
       "page": "invitation",
       "section": "The invitation",
-      "caption": "Distinct voices, a shared conversation.",
-      "alt": "An imagined gathering of people of different generations around a circular table, with separate flowers connected in a garland.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. Intimate overhead three-quarter view of a circular garden table where diverse adults, elders and children hold different ceramic flowers and connect them into a garland. Everyone remains an individual. Tea, sketches and open notebooks without lettering. Welcoming atmosphere of reciprocal listening, leafy shade and filtered golden light."
+      "caption": "Distinct voices, real choices about the future.",
+      "alt": "Residents and engineers compare a robotic transit proposal at a contemporary neighbourhood forum.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. Contemporary community forum on a city library mezzanine: residents of mixed ages and backgrounds including a wheelchair user debate a tabletop transit-and-housing model with an engineer. One participant stands and explains a choice while others listen thoughtfully. Through windows a real light rail passes modern buildings. Printed plans, ordinary tablets, one shared wall model. Candid democratic participation, disagreement without theatre, clear single composition.",
+      "sourceBasis": [
+        "UNGA81: The invitation; Veitacini: culture of peace and talanoa"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "possibility",
       "page": "invitation",
       "section": "Why trust is difficult",
-      "caption": "A fair go includes places to learn, make and belong.",
-      "alt": "An imagined open community workshop where young people make music, repair a bicycle and tend seedlings alongside mentors.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A joyful open-air community learning courtyard with three connected workspaces: young people and adult mentors repairing a bicycle, recording music with modest equipment, and growing seedlings. Playful turquoise workbenches and coral archways. Close human-scale vignette; tools anatomically plausible, no floating tech overlays. Inviting practical possibilities."
+      "caption": "A fair go includes access to the tools shaping tomorrow.",
+      "alt": "Young adults and mentors develop robots and digital art in a modern public learning studio.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. A public creative technology centre in a repurposed industrial space: young adults and mentors collaboratively build an autonomous ocean-sensing robot at a foreground workbench, with components and well-designed tools. Behind a glass acoustic partition two people create digital music and projection art, several other learners use fabrication equipment. Make real access to advanced tools exciting and hands-on, contemporary streetwear, functional colourful furnishings, no garden crafts or bike repair.",
+      "sourceBasis": [
+        "UNGA81: Protection must open into possibility",
+        "BE LAU: 15, civic space stewardship"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "civic-compute",
       "page": "capability",
-      "section": "Capability without domination",
-      "caption": "Useful intelligence, close to the people who use it.",
-      "alt": "An imagined community computing room beside a library and garden, with residents learning around shared equipment.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. Human-scale public library workshop with a modest beautifully designed community computing cabinet behind glass, a few adults studying reef models on unlettered screens, and open doors into a coastal garden. Realistic equipment dimensions but imaginative ceramic architectural visual language. Computing as useful neighbourhood infrastructure, calm and welcoming rather than enormous corporate data centre."
+      "section": "The missing middle of AI",
+      "caption": "Local intelligence supporting decisions about shared infrastructure.",
+      "alt": "A local civic computing team compares transport and energy models beside community-owned computing equipment.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. A modern local civic AI lab where a mixed team of community planners and technologists work on transport and energy simulations displayed on two large conventional screens, abstract geographically coherent grids, no text. Foreground people comparing a tablet and city model, background compact enclosed server racks visible through glass with organised cooling hardware. Contemporary municipal research facility, human judgement and useful computation, bright daylight, precise cable management.",
+      "sourceBasis": [
+        "AUKUS: missing middle and national learning network",
+        "BE LAU: 9-10"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "heat-twice",
       "page": "capability",
-      "section": "The missing middle of AI",
-      "caption": "One source of energy, more than one useful purpose.",
-      "alt": "A conceptual miniature linking a computing room, greenhouse and warm-water pool through visible copper-coloured channels.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. An elegant cutaway miniature of three connected spaces: a small computing room, a productive greenhouse and a community warm-water pool. Flowing copper-coloured thermal channels visibly link the spaces. Soft rising vapour over warm water, flourishing plants, no arrows or labels. This is poetic conceptual infrastructure, not an engineering diagram. Side-on wide composition showing all three spaces."
+      "section": "Use the heat twice",
+      "caption": "Computing heat becomes part of the energy system.",
+      "alt": "A technical concept cutaway links a modern data centre, heat exchanger and public aquatic centre.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. Premium realistic architectural sectional cutaway of a compact contemporary urban data centre and its heat-recovery plant connected to a neighbouring public aquatic centre. Show distinct server racks with liquid-cooling pipes, a substantial industrial heat exchanger and insulated paired supply-return pipes reaching pool mechanical equipment. Visible people provide scale. Energy arrows only if helpful, no labels or text, engineering legibility over decoration. Concrete, steel, turquoise water and amber pipework, not a miniature fantasy spa. Include a clearly separate heat-pump unit between the data-centre heat exchanger and useful hot-water supply; recovered low-temperature heat is upgraded through actual plant, not magically turned into high heat.",
+      "sourceBasis": [
+        "UNGA81: Use the heat twice",
+        "BE LAU: 9, heat as a local resource"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "shared-ownership",
       "page": "livelihoods",
       "section": "Mutual Futures",
-      "caption": "Productive places, with a shared stake in what comes next.",
-      "alt": "An imagined neighbourhood workshop where several workers gather around a shared workbench and a small model of their business.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A warm working neighbourhood workshop, diverse adult makers around a broad shared workbench, crafted wooden objects, tools, small robotic helper arm doing a mundane task, plants at open windows. A miniature model of their workshop sits between them as they plan together. Visual metaphor for worker ownership and voluntary succession. No money symbols, charts, business suits or handshakes."
+      "caption": "A shared stake in the machines and the value they create.",
+      "alt": "Worker-owners plan production beside an enclosed industrial robot cell.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. Candid scene of a worker-owned advanced manufacturing cooperative. Four colleagues with varied ages and backgrounds gather beside a clearly safeguarded robot cell producing modular energy hardware, discussing scheduling and ownership using a practical large touchscreen and physical components. One colleague wears smart safety glasses, another holds a machined part. Strong factory depth, technical detail, purposeful focus and equal participation. No posed corporate handshake.",
+      "sourceBasis": [
+        "UNGA81: Mutual Futures",
+        "https://auraofintelligence.github.io/mutual-futures/succession.html"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "time-to-live",
       "page": "livelihoods",
       "section": "Intermittent Retirement",
-      "caption": "Time for learning, caring, creating and simply being.",
-      "alt": "An imagined garden with spaces for painting, reading, family care and rest arranged around an open circular path.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A luminous garden showing ordinary freed time: an adult painting at an easel, an elder and child reading together, someone resting in a hammock, another learning a musical instrument. Spacious circular path around a tranquil pond. A simple golden sundial in the foreground without text. Unhurried, meaningful everyday life. No luxury resort advertising aesthetic."
+      "caption": "More productive capability. More time to pursue a life.",
+      "alt": "Adults of different ages learn music and immersive media in a contemporary community arts centre.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. An exciting contemporary community music and immersive media studio with a multigenerational group making an audiovisual performance together. One older adult learns electronic percussion, a young adult works a synthesiser, another captures expressive movement in a lightweight motion-tracking suit; projected abstract graphics respond behind them. Modern acoustic panels, cables safely organised, natural window light and colourful stage accents. This is active freedom to learn and create across life, not passive retirement.",
+      "sourceBasis": [
+        "UNGA81: Intermittent Retirement",
+        "https://auraofintelligence.github.io/mutual-futures/workforce.html"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "community-care",
       "page": "livelihoods",
       "section": "Health and everyday access",
-      "caption": "Shared spaces for everyday care and recovery.",
-      "alt": "An imagined community garden and shared kitchen beside calm spaces for movement and rest.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A beautiful accessible community kitchen opening into edible gardens and a quiet shaded movement courtyard, diverse adults preparing colourful food and watering plants, one wheelchair user sharing the table. Ordinary practical care, food, rest and connection. Warm light, glazed turquoise tiles, coral ceramics. No medical machines, pills, detox symbolism or claims of treatment."
+      "caption": "Aura Geode: shared research into body, atmosphere, reflection and personal intelligence.",
+      "alt": "Participants and researchers co-design an experimental Aura Geode enclosure, with personal computing and interface prototypes outside it.",
+      "prompt": "Use case: stylized-concept. Generate one premium editorial website image, landscape 1536x1024. Bold, sophisticated cinematic future-society visualisation with rich colour, technological imagination, convincing physical detail and clear human purpose. Joyful Responsible Abundance: AI and robotics expand what people can build, maintain, create and become, from personal agency to civilisation. Contemporary or futuristic engineering and architecture; cobalt, steel, amber, teal and natural materials. Strong readable composition at small size. Avoid pastel cottagecore, ancient Greece or Rome, ornamental colonnades, flower-shaped buildings, decorative horn tori, generic glass orbs, dystopia and corporate stock photography. No logos, watermarks or writing. An open advanced health and self-reflection research studio developed as a shared cooperative concept. Researchers and participants co-design a striking full-size experimental Aura Geode enclosure: steel structural ribs, a mineral-composite shell segment, accessible reclining seat and an open doorway, currently empty and unpressurised. Personal owner-held computing sits visibly outside the enclosure. An adult participant discusses a private digital-twin research display with a researcher; another pair examine a removable breathing-interface prototype on a workbench. Include subtle audio/light reflection elements, personal agency and dignified accessibility. An ambitious R&D environment, not a working treatment clinic or magical healing pod. No glowing bodies, no promised rejuvenation, no text.",
+      "sourceBasis": [
+        "UNGA81: Health and everyday access",
+        "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/aura-geode/"
+      ],
+      "label": "Future research concept"
     },
     {
       "id": "civic-voices",
       "page": "intelligence",
       "section": "P4A and democratic participation",
-      "caption": "Public choices people can understand and help shape.",
-      "alt": "An imagined civic gathering around a physical neighbourhood model, with people discussing different possible arrangements.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A small lively civic gathering of ordinary adults around a tactile neighbourhood model with movable coral and lilac buildings, miniature trees and shared paths. A resident holds a model piece while others consider alternatives. Friendly diverse perspectives, humour, engaged participation. A modest open-air forum with no political flags, party branding, speaker dominating audience or futuristic surveillance screens."
+      "caption": "Make complex public choices understandable and open to challenge.",
+      "alt": "A public workshop compares urban flood, transport and housing scenarios using a shared digital city model.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. A modern public deliberation workshop in a community hall with an enormous interactive horizontal city-model display. Citizens of different ages and backgrounds compare clear coloured layers for housing, transit and coastal flood exposure, a facilitator points to a specific block, a participant challenges an assumption with a tablet. Two physical material samples on the table connect abstractions to real choices. Dynamic eye-level framing, no corporate boardroom, no fake statistics or writing.",
+      "sourceBasis": [
+        "UNGA81: P4A and democratic participation",
+        "https://auraofintelligence.github.io/p4a_xyz/",
+        "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "reasons-to-continue",
       "page": "futures",
       "section": "What makes anyone want the game to continue?",
       "after_block": 6,
-      "caption": "Relationships and possibilities that make the future worth continuing.",
-      "alt": "An imagined evening neighbourhood where people share a meal, play music and watch children explore a garden.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A tender wide dusk scene of a neighbourhood shared meal under lanterns, adults laughing gently, musicians in the background, children exploring a small garden path, warm home windows, a calm sea beyond. An ordinary yet beautiful future people have reasons to care for. Warm coral, golden and teal light, no disaster imagery, danger symbols, red buttons or heroic saviour figure."
+      "caption": "Survival is the floor. A civilisation worth living in is the larger ambition.",
+      "alt": "A speculative subterranean generation city makes room for ecology, transport, robotic maintenance, music, sport and everyday life.",
+      "prompt": "Use case: stylized-concept. Generate one premium editorial website image, landscape 1536x1024. Bold, sophisticated cinematic future-society visualisation with rich colour, technological imagination, convincing physical detail and clear human purpose. Joyful Responsible Abundance: AI and robotics expand what people can build, maintain, create and become, from personal agency to civilisation. Contemporary or futuristic engineering and architecture; cobalt, steel, amber, teal and natural materials. Strong readable composition at small size. Avoid pastel cottagecore, ancient Greece or Rome, ornamental colonnades, flower-shaped buildings, decorative horn tori, generic glass orbs, dystopia and corporate stock photography. No logos, watermarks or writing. An expansive science-fiction interior of a flourishing subterranean generation city, an immense daylit central cavern beneath a structured luminous ceiling. Multi-level modern inhabited terraces, a genuine running river ecosystem and productive plants, fast public transit across elegant bridges, a busy music and art plaza, sport and social life in foreground. In a separate visible industrial gallery robotic systems maintain the infrastructure. Humans of varied ages clearly thrive rather than merely survive. Architectural drama and city-scale complexity, cobalt, amber, green, natural materials, no classical architecture. This is a speculative civilisation worth continuing, where people have time, curiosity, relationships and joy, not a sterile bunker.",
+      "sourceBasis": [
+        "UNGA81: What makes anyone want the game to continue?",
+        "BE LAU: 19, survival is the floor",
+        "https://auraofintelligence.github.io/grain-by-grain-documentary/"
+      ],
+      "label": "Speculative long-horizon concept"
     },
     {
       "id": "learning-garland",
       "page": "futures",
       "section": "How GAJRA Earth could work",
-      "caption": "Local experiments, connected through shared learning.",
-      "alt": "Small distinct garden communities linked in a circular garland, each showing a different local activity.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A refined tabletop miniature of seven DISTINCT small community garden islands connected as a loose circular GARLAND by narrow paths. Each has one activity: dialogue table, quiet reflection nook, art studio, workshop, ecological observation garden, shared library, meeting circle. Distinct communities stay separate while connected. No single giant flower, no map borders, no text, no arrows. An image of voluntary shared learning."
+      "caption": "Distinct places, sovereign choices, shared planetary capability.",
+      "alt": "An auroral Earth connects distinct island, city, cultural, research and community-computing scenes.",
+      "prompt": "Use case: stylized-concept. Generate one premium editorial website image, landscape 1536x1024. Bold, sophisticated cinematic future-society visualisation with rich colour, technological imagination, convincing physical detail and clear human purpose. Joyful Responsible Abundance: AI and robotics expand what people can build, maintain, create and become, from personal agency to civilisation. Contemporary or futuristic engineering and architecture; cobalt, steel, amber, teal and natural materials. Strong readable composition at small size. Avoid pastel cottagecore, ancient Greece or Rome, ornamental colonnades, flower-shaped buildings, decorative horn tori, generic glass orbs, dystopia and corporate stock photography. No logos, watermarks or writing. A sophisticated editorial orbital-view concept of Earth centred on the Pacific, with a luminous auroral arc suggesting a garland, and five distinct rectangular image windows carefully arranged at the edges like a connected visual atlas. The windows show locally different people and places: island ocean researchers with marine robots, a modern city fabrication cooperative, a regional language and AI lab, a public performance and a community-run compute room. Thin light lines connect selected windows to their locations without merging them into a single centre. Physically expressive Earth, extraordinary colour and clarity, contemporary real technology. No map labels, flags, logos, floating temple islands or totalitarian central AI face. Federation and difference remain legible.",
+      "sourceBasis": [
+        "UNGA81: How GAJRA Earth could work",
+        "Veitacini submission: 5",
+        "BE LAU: 11-13"
+      ],
+      "label": "GAJRA federation concept"
     },
     {
       "id": "past-present-future",
       "page": "futures",
       "section": "From now to July 2035",
-      "caption": "Past, present and future, brought into the same conversation.",
-      "alt": "Three connected spaces in an imagined coastal gathering: an archive garden, a lively making space and an open horizon.",
-      "prompt": "Use case: stylized-concept. Create a premium editorial illustration for the Joyful Responsible Abundance website. Wide landscape 1536x1024. Visually coherent with a joyful sunlit world made of tactile matte ceramic, soft translucent glass and lush gardens, warm ivory, coral, sunshine yellow, sea-glass turquoise and lilac. Sophisticated imaginative miniature with human warmth, exquisite materials and elegant composition, not a generic corporate rendering. Clear focal subject, readable at small mobile width. No text, letters, labels, logos, flags or watermarks. An explicitly imagined proposal, not documentary evidence. A contemplative panoramic triptych WITHOUT panel borders: on the left an archive garden with old ceramic vessels and mature trees; centre a lively community making space with people experimenting and sharing art; right a luminous path opening towards young trees and the sea horizon. One continuous coastal landscape. Subtle festive flower garlands overhead made of many distinct flowers. Past, present and future as connected perspectives, no dates or lettering."
+      "caption": "Bring what we have learned into the futures we choose to build.",
+      "alt": "An immersive public exhibition connects historical infrastructure, contemporary robotics and future-city scenarios.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. A contemporary immersive civic exhibition inside a bold industrial museum. Three connected spaces within one coherent wide view: visitors inspect historical engineering objects and archival images on the left; central live demonstration of a small protected robot fabricating a component; on the right a projection wall presents a detailed possible future coastal city. Include young and older visitors exchanging ideas, strong angular architecture, modern museum lighting, no text, no arches, no magical portals.",
+      "sourceBasis": [
+        "UNGA81: From now to July 2035",
+        "BE LAU: 17, public learning timeline"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "aura-repair-guidance",
       "page": "capability",
       "section": "A Protopian Gambit",
-      "caption": "Future Aura concept: the next useful instruction, while your hands are busy.",
-      "alt": "A person wearing smart glasses repairs a bicycle, with a small inset showing a single visual instruction beside the component.",
-      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. At a sunlit coastal community repair workshop, a young adult wearing realistic slim clear-lens smart glasses with visible electronic temples carefully repairs a bicycle gear assembly alongside an older mentor. Hands physically work with a hex key; tools and real parts are orderly. The main scene shows the wearables naturally, eyes remain visible. Add one elegantly integrated rectangular editorial inset occupying upper right quarter that explicitly visualises the wearer's first-person view: the actual gear assembly, with one precise mint arrow to the bolt and one tiny simplified tool icon. The view is otherwise unobstructed. No written text, no giant floating interface in the room. Real learning and useful assistance, a person engaged in the task.",
-      "sourceBasis": {
-        "document": "Version7 Aura of Intelligence 2023 July.pdf",
-        "pages": [
-          4,
-          5,
-          19,
-          20,
-          24
-        ],
-        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
-        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
-      }
+      "caption": "Future Aura concept: coordinate complex fabrication as conditions change.",
+      "alt": "An engineer wearing smart glasses supervises robots assembling a modular building component.",
+      "prompt": "Use case: stylized-concept. Create one premium editorial future-society image for a public website about Joyful Responsible Abundance, AI and robotics changing how civilisations are built and maintained. Landscape 1536x1024, crisp cinematic realism with the crafted clarity of exceptional architectural visualisation. Bold technologically advanced future design, civilisation-scale ambition combined with vivid human experience, sophisticated engineering and purposeful action. Joyful Responsible Abundance means expanding possibilities far beyond small household conveniences. Strong cobalt, steel, warm amber, electric teal and natural material colour; neutral daylight or motivated scene lighting, vivid but not pastel, not overprocessed. Diverse people shown with dignity and agency. Visually legible central action, layered depth, polished composition that reads at phone size. Buildings use contemporary steel, glass, concrete and modular construction. NO ancient Greek/Roman architecture, colonnades, Mediterranean fantasy courtyard, gauzy cottagecore, floral utopia, magical orbs, horn-torus decoration, generic humanoid robot posing, giant ungrounded holograms, text, logos, watermarks. Clearly imagined concept, not a claim of deployed technology. Inside a modern modular building factory, an engineer wearing practical smart safety glasses and a haptic wrist device supervises a pair of large safeguarded industrial robots positioning a complex facade module. A human colleague independently checks alignment. A modest clean editorial inset shows the wearer's spatial view with three alignment points, a clearance outline and one highlighted joint on the actual module, no words. Context-specific intelligence turns complex sensor data into an actionable visual cue while people retain decisions. Industrial competence and ambition, not basic tool instructions.",
+      "sourceBasis": [
+        "BE LAU: 8-10; 19",
+        "Aura 2023: 4; 20; 24"
+      ],
+      "label": "AI-generated concept illustration"
     },
     {
       "id": "aura-timely-travel",
       "page": "intelligence",
       "section": "Aura Genesis and dual alignment",
-      "caption": "Future Aura concept: timely travel help through glasses, audio or a wrist display.",
-      "alt": "A traveller wearing smart glasses and an earpiece pauses by a ferry terminal, with a wrist display and a small inset illustrating a simple route cue.",
-      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. A relaxed middle-aged traveller pauses at an Australian subtropical ferry terminal garden overlooking a turquoise bay. They wear subtle but visibly technological clear smart glasses, a small open-ear audio device, and a practical smartwatch whose display they can glance at. A small carry bag beside them, ferry and jetty in the distance, people going about their lives. Three-quarter waist-up composition allows wearable details. One small integrated editorial inset at upper right shows a minimal wearer-view route: a single pale mint directional arrow aligned with the real path to the ferry, plus a small ferry icon. No wall of data, no written text. Technology serves this immediate real-world moment, friendly self-directed experience, spare attention left for life.",
-      "sourceBasis": {
-        "document": "Version7 Aura of Intelligence 2023 July.pdf",
-        "pages": [
-          4,
-          5,
-          19,
-          20,
-          24
-        ],
-        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
-        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
-      }
+      "caption": "Future Aura concept: connect self-knowledge, creative intelligence and futures you choose.",
+      "alt": "A person uses smart glasses, selected memories and personal goals to develop future ocean and orbital worlds in an immersive studio.",
+      "prompt": "Use case: stylized-concept. Generate one premium editorial website image, landscape 1536x1024. Bold, sophisticated cinematic future-society visualisation with rich colour, technological imagination, convincing physical detail and clear human purpose. Joyful Responsible Abundance: AI and robotics expand what people can build, maintain, create and become, from personal agency to civilisation. Contemporary or futuristic engineering and architecture; cobalt, steel, amber, teal and natural materials. Strong readable composition at small size. Avoid pastel cottagecore, ancient Greece or Rome, ornamental colonnades, flower-shaped buildings, decorative horn tori, generic glass orbs, dystopia and corporate stock photography. No logos, watermarks or writing. A person wearing contemporary smart glasses and a light open-ear audio device at an immersive worldbuilding studio, using their own memories, goals and interests to shape an extraordinary future journey. A grounded studio desk holds a small private local computer and a tablet displaying a personal timeline of selected photos, skills and creative milestones; no identifiable real personal information. Main large wall display shows a richly rendered possible ocean habitat beside an orbital settlement, clearly a designed virtual world. The person actively adjusts a physical controller while a trusted collaborator listens. One restrained editorial inset shows a wearable interface making a connection between a personal skill icon and a chosen project, with several options, no text. Personal self-reflection expanding into creation and adventure. This illustrates Aura Genesis as a chosen life and future, not a job-management HUD.",
+      "sourceBasis": [
+        "UNGA81: Aura Genesis and dual alignment",
+        "Aura 2023: 4-5",
+        "https://auraofintelligence.github.io/aura-matrix-studio/"
+      ],
+      "label": "Future Aura concept"
     },
     {
       "id": "aura-shared-learning",
       "page": "futures",
       "section": "An invitation to the United Nations and the world",
-      "caption": "Future Aura concept: shared learning, with guidance suited to each person.",
-      "alt": "Three people wearing smart glasses learn to maintain a community garden irrigation system, with a small inset highlighting one useful next step.",
-      "prompt": "Create a sophisticated editorial concept illustration for an optimistic community website about Joyful Responsible Abundance. Landscape 1536x1024 3:2. Tactile painterly architectural illustration, detailed believable people and hardware, luminous ivory, warm coral, mint, lavender and gold palette, Australian coastal light. Refined award-quality composition with meaningful action, no logos, no decorative torus, no rainbow donut, no orb, no aura fields. This depicts a proposed future use of Aura of Intelligence: personal context-aware intelligence delivered through practical smart wearables at the time and in the format needed. Clear purposeful hardware, not magical holograms. Three adults of different ages and backgrounds collaborating in a lush coastal community garden, learning to maintain a compact real irrigation assembly on a raised bed. Two wear clear-lens smart glasses and the third uses a small handheld tablet: accessible choice of format. One person points to the real physical valve, one uses a hand tool, the third consults a simple diagram on their tablet. No gigantic projected objects. A single tasteful editorial inset at top right visualises one wearer's first-person view of the valve with a precise coral highlight and a single mint next-step arrow, no writing. Warm human connection with practical technology, vegetables, water tank and workshop in background. Show people learning together, not staring at abstract symbols.",
-      "sourceBasis": {
-        "document": "Version7 Aura of Intelligence 2023 July.pdf",
-        "pages": [
-          4,
-          5,
-          19,
-          20,
-          24
-        ],
-        "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
-        "note": "The horn torus is the programming layer. Future user-facing use centres on smart wearables and just-in-time intelligence in a useful format."
-      }
+      "caption": "Long-horizon Aura concept: shared intelligence for building and living beyond Earth.",
+      "alt": "In a speculative lunar habitat, people use wearable intelligence to learn about closed-loop living while robots construct modules outside.",
+      "prompt": "Use case: stylized-concept. Generate one premium editorial website image, landscape 1536x1024. Bold, sophisticated cinematic future-society visualisation with rich colour, technological imagination, convincing physical detail and clear human purpose. Joyful Responsible Abundance: AI and robotics expand what people can build, maintain, create and become, from personal agency to civilisation. Contemporary or futuristic engineering and architecture; cobalt, steel, amber, teal and natural materials. Strong readable composition at small size. Avoid pastel cottagecore, ancient Greece or Rome, ornamental colonnades, flower-shaped buildings, decorative horn tori, generic glass orbs, dystopia and corporate stock photography. No logos, watermarks or writing. A bold science-fiction image inside a future lunar habitat construction and learning centre. Foreground three civilian builders and researchers in comfortable shirtsleeves, wearing lightweight smart glasses, work with an interactive physical model of a closed-loop habitat. Through a large engineered observation window, remote construction robots assemble modular habitat shells on the lunar surface; Earth hangs beyond. A compact productive greenhouse and water-recycling apparatus in the room visibly connect life-support skills with ordinary human life. One tasteful rectangular editorial inset shows shared XR learning around the actual module: spatial assembly sequence and resource loops, symbols only. People direct and understand the technology, curiosity and excitement palpable. This is the BE LAU paper's long-horizon civic space stewardship, explicitly imaginative not achieved hardware. Strong silver, amber, cobalt and lush plant green.",
+      "sourceBasis": [
+        "BE LAU: 15; 19; 23, civic space stewards",
+        "https://auraofintelligence.github.io/mutual-futures/galactic.html"
+      ],
+      "label": "Speculative long-horizon concept"
     }
   ]
 }

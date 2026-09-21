@@ -20,7 +20,7 @@ REFS=json.loads((ROOT/'data/references.json').read_text(encoding='utf-8'))
 ILLUSTRATIONS=json.loads((ROOT/'data/inline-illustrations.json').read_text(encoding='utf-8'))['images']
 HERO_IMAGES={art['id']:art for art in json.loads((ROOT/'data/image-prompts.json').read_text(encoding='utf-8'))['images']}
 ALT={key:art['alt'] for key,art in HERO_IMAGES.items()}
-IMAGE_VERSION='civilisation-20260921'
+IMAGE_VERSION='civilisation-20260921b'
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def link(url,label,cls=''):return f'<a href="{E(url,quote=True)}"'+(f' class="{cls}"' if cls else '')+f'>{E(label)}</a>'
 def picture(key,cls='',lazy=False):
@@ -29,7 +29,7 @@ MARK='<img class="brand-mark" src="assets/brand-garland.png" width="42" height="
 
 def hero(key,title,desc):
  if key=='index':
-  return f'''<section class="home-intro wrap"><div><h1>A fair go in the<br>age of <em>intelligence.</em></h1></div><div class="intro-note"><p class="lead">An invitation to build<br><strong>Joyful Responsible Abundance.</strong></p><p>Define futures worth inhabiting.<br>Make room for everyone to help build them.</p><a class="button" href="invitation.html">Read the invitation <span aria-hidden="true">↗</span></a></div></section><figure class="hero-art wrap home-art">{picture(key)}<figcaption><span>Shared capability. More possible futures.</span><span>Speculative civilisation concept · AI-generated</span></figcaption></figure><div class="byline wrap"><span>A personal contribution to UNGA81</span><span>Luke Nathan Hayes · Minjerribah, Australia · September 2026</span></div>'''
+  return f'''<section class="home-intro wrap"><div><h1>A fair go in the<br>age of <em>intelligence.</em></h1></div><div class="intro-note"><p class="lead">An invitation to build <br><strong>Joyful Responsible Abundance.</strong></p><p>Define futures worth inhabiting.<br>Make room for everyone to help build them.</p><a class="button" href="invitation.html">Read the invitation <span aria-hidden="true">↗</span></a></div></section><figure class="hero-art wrap home-art">{picture(key)}<figcaption><span>Shared capability. More possible futures.</span><span>Speculative civilisation concept · AI-generated</span></figcaption></figure><div class="byline wrap"><span>A personal contribution to UNGA81</span><span>Luke Nathan Hayes · Minjerribah, Australia · September 2026</span></div>'''
  return f'''<section class="page-intro wrap"><h1>{E(title)}</h1><p class="lead">{E(desc)}</p></section><figure class="hero-art wrap">{picture(key)}<figcaption>{E(HERO_IMAGES[key].get("label","Concept illustration").replace("AI-generated ",""))} · AI-generated</figcaption></figure>'''
 def home():
  cards=''.join(f'<a class="chapter-card" href="{key}.html"><div class="card-art">{picture(key,lazy=True)}<span class="circle-arrow" aria-hidden="true">↗</span></div><div class="card-copy"><span class="chapter-number">0{i}</span><h3>{E(label)}</h3><p>{E(desc)}</p></div></a>' for i,(key,title,label,desc) in enumerate(PAGES[1:6],1))

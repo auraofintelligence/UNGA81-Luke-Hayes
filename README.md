@@ -10,7 +10,7 @@ A personal contribution to UNGA81 by **Luke Nathan Hayes**, Minjerribah / North 
 
 This illustrated edition brings the full contribution together with its reference register, original PDF and connected public work. It is an independent personal contribution, not a United Nations publication or endorsement.
 
-![Imagined garden islands connected by bridges](assets/images/index-1536.webp)
+![Speculative coastal generation city with robotic industry and active public spaces](assets/images/index-1536.webp)
 
 ## Explore the site
 
@@ -97,7 +97,9 @@ There are no analytics, advertising, accounts, third-party embeds or tracking co
 
 Eight heroes, fourteen chapter illustrations and the garland icon were generated with OpenAI image generation on 21 September 2026. They are imagined editorial concepts, not evidence of completed buildings, working technology, real events or institutional participation.
 
-The three future Aura scenes show smart wearables delivering useful guidance during repair, travel and shared learning. They draw on the author's July 2023 Aura document and [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/). The horn-torus programming structure is only one layer of Aura. These scenes illustrate its intended everyday use; they do not imply that Matrix Studio currently connects to wearables. Images are provided in two responsive sizes, load as the reader approaches them and include captions and meaningful alternatives.
+The revised visual direction connects personal Aura intelligence, mutual ownership, robotic production, creative life, civic computing and long-horizon civilisation. It draws on the contribution, three supporting submissions, the author's July 2023 Aura document and the linked public work. The horn-torus programming structure is one layer of Aura; user-facing concepts include smart wearables, reflection, personal context and useful intelligence in the moment. Speculative horizons and future research are identified in captions. No current wearable integration or completed future infrastructure is implied. Images are provided in two responsive sizes, with captions and meaningful alternatives; chapter illustrations load as the reader approaches them.
+
+[Visual direction and source reading](data/visual-direction.md) explains which ideas each part of the imagery represents and how differences between older and current sources were handled.
 
 [Hero prompts](data/image-prompts.json) · [Chapter illustration prompts](data/inline-illustrations.json) · [Favicon prompt](data/favicon-prompt.json) · [Image files](assets/images/) · [Favicon master](assets/images/gajra-icon-master.png).
 

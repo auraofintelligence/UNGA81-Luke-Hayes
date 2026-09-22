@@ -42,7 +42,59 @@
       "word_modified_utc": "2026-08-27T12:41:00Z",
       "selection": "Later author-edited Word version selected over Markdown dated 21 August. Text comparison confirms substantive additions, including consumer-grade computing, personal AI and equal Community-Hours.",
       "version_check_date": "2026-09-21"
+    },
+    {
+      "reference": 30,
+      "filename": "fiji-australia-vuvale-union-submission.docx",
+      "source_filename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+      "sha256": "f62ae877f90e437583d9ecc2db29f3b11f20253c05b6feda573d7e694c3e8af0",
+      "bytes": 52947,
+      "source_location": "Downloads",
+      "preserved_unchanged": true,
+      "selection": "Only matching Vuvale Union Word submission found in Downloads and its subfolders.",
+      "duplicate_check": "Compared with existing published documents, matching Downloads files and the submission archive; one selected copy published.",
+      "version_check_date": "2026-09-22",
+      "word_revision": "3",
+      "word_modified_utc": "2026-08-29T12:04:00Z"
+    },
+    {
+      "reference": 31,
+      "filename": "local-government-funding-submission.pdf",
+      "source_filename": "Local Government 2Funding Inquiry Submission.pdf",
+      "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+      "bytes": 276605,
+      "source_location": "Downloads",
+      "preserved_unchanged": true,
+      "selection": "Only matching funding submission found in Downloads and its subfolders.",
+      "duplicate_check": "Compared with existing published documents, matching Downloads files and the submission archive; one selected copy published.",
+      "version_check_date": "2026-09-22"
+    },
+    {
+      "reference": 32,
+      "filename": "senate-ai-and-data-centres-submission.docx",
+      "source_filename": "Senate_AI_and_Data_Centres_Submission_Luke_Nathan_Hayes_2026.docx",
+      "sha256": "1ab01da1abd6cf456c8cf345e09425d3c8cf59e892897ce750e75f815766ed65",
+      "bytes": 39348,
+      "source_location": "Downloads/Submission_Pack",
+      "preserved_unchanged": true,
+      "selection": "Edited Word revision 3 selected over the earlier submission ZIP copy and its PDF/Markdown companions. Content comparison confirms later edits. The separate 18 August Senate draft was also omitted.",
+      "duplicate_check": "Compared with existing published documents, matching Downloads files and the submission archive; one selected copy published.",
+      "version_check_date": "2026-09-22",
+      "word_revision": "3",
+      "word_modified_utc": "2026-08-27T11:53:00Z"
     }
   ],
-  "scope": "Matching filenames and document contents in Downloads, the submission ZIP, and matching copies in a local reference project. These are the latest matching versions found in that local scope, not a claim about unavailable copies elsewhere."
+  "scope": "Matching filenames and document contents in Downloads, the submission ZIP, and matching copies in a local reference project. These are the latest matching versions found in that local scope, not a claim about unavailable copies elsewhere.",
+  "updated": "2026-09-22",
+  "main_contribution": {
+    "filename": "UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+    "source_filename": "UNGA81_Joyful_Responsible_Abundance_Refined (New Reference Links).pdf",
+    "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+    "bytes": 112210,
+    "pages": 8,
+    "preserved_unchanged": true,
+    "updated": "2026-09-22",
+    "edition": "New Reference Links",
+    "selection": "Author-requested replacement. Body text unchanged after layout normalisation; reference descriptions, entries and clickable links updated. Existing public filename retained."
+  }
 }

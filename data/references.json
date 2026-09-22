@@ -259,7 +259,7 @@
     "id": 17,
     "title": "AUKUS Public Inquiry submission",
     "category": "Author documents",
-    "description": "Hayes, Luke Nathan. AUKUS Public Inquiry submission, 2026. Original file reference: AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx.",
+    "description": "Hayes, Luke Nathan. AUKUS Public Inquiry submission, 2026 (Word document).",
     "links": [
       {
         "label": "Download original Word document (.docx)",
@@ -267,7 +267,7 @@
       }
     ],
     "status": "Document available",
-    "note": "Unchanged AUKUS submission dated 24 August 2026. Duplicate archive copy omitted. The similarly titled Senate AI paper is a different submission. The located filename omits the numbered download suffix cited in the PDF.",
+    "note": "Unchanged AUKUS submission dated 24 August 2026. Duplicate archive copy omitted. The similarly titled Senate AI paper is a different submission.",
     "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
     "document_filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
     "sha256": "1fcc88fe31b0192107683880a9c21c4ce7e83b63e91b576316e618e43363ffea"
@@ -276,7 +276,7 @@
     "id": 18,
     "title": "Veitacini Treaty submission",
     "category": "Author documents",
-    "description": "Hayes, Luke Nathan. Ocean of Peace Alliance / Veitacini Treaty submission, 2026. Original file reference: Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026(8).docx.",
+    "description": "Hayes, Luke Nathan. Ocean of Peace Alliance / Veitacini Treaty submission, 2026 (Word document).",
     "links": [
       {
         "label": "Download original Word document (.docx)",
@@ -284,7 +284,7 @@
       }
     ],
     "status": "Document available",
-    "note": "Unchanged Word revision 2, last edited 28 August 2026. Matching local copies were byte-identical. The located filename omits the numbered download suffix cited in the PDF.",
+    "note": "Unchanged Word revision 2, last edited 28 August 2026. Matching local copies were byte-identical.",
     "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
     "document_filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
     "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a"
@@ -293,7 +293,7 @@
     "id": 19,
     "title": "BE LAU Protopian Gambit",
     "category": "Author documents",
-    "description": "Hayes, Luke Nathan. BE LAU Protopian Gambit Pacific discussion paper, 2026. Original file reference: BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026(2).docx.",
+    "description": "Hayes, Luke Nathan. BE LAU Protopian Gambit Pacific discussion paper, 2026 (Word document).",
     "links": [
       {
         "label": "Download original Word document (.docx)",
@@ -301,7 +301,7 @@
       }
     ],
     "status": "Document available",
-    "note": "Unchanged Word revision 3, last edited 27 August 2026. This includes author edits absent from the earlier Markdown copy. The located filename omits the numbered download suffix cited in the PDF.",
+    "note": "Unchanged Word revision 3, last edited 27 August 2026. This includes author edits absent from the earlier Markdown copy.",
     "link_provenance": "Links supplied or confirmed by the author on 21 September 2026.",
     "document_filename": "BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
     "sha256": "efec152fbe572db281a3fe30ccb7a8b585324b5e3beaa1363072a6fd0ed7c3f9"
@@ -310,7 +310,7 @@
     "id": 20,
     "title": "Strange but True",
     "category": "Connected projects",
-    "description": "Strange but True: Tech, art and ideas that'll help.",
+    "description": "Strange but True: Tech, art and ideas that'll help. Author's umbrella for technology, art and public-interest projects.",
     "links": [
       {
         "label": "Strange but True public page",
@@ -485,7 +485,7 @@
     "id": 28,
     "title": "The Braided Economy and C-Hours",
     "category": "Connected projects",
-    "description": "The Braided Economy; Community-Hours (C-Hours).",
+    "description": "The Braided Economy; Community-Hours (C-Hours). Separate records of money, verified voluntary contribution and outcomes.",
     "links": [
       {
         "label": "C Hour introduction on GitHub",
@@ -516,5 +516,59 @@
     "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
     "checked": "2026-09-21",
     "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+  },
+  {
+    "id": 30,
+    "title": "Fiji-Australia Vuvale Union submission",
+    "category": "Author documents",
+    "description": "Hayes, Luke Nathan. Fiji-Australia Vuvale Union submission. Supporting documents and links.",
+    "links": [
+      {
+        "label": "Download original Word document (.docx)",
+        "url": "documents/fiji-australia-vuvale-union-submission.docx"
+      }
+    ],
+    "status": "Document available",
+    "note": "Unchanged Word revision 3, edited 29 August 2026. A separate submission from the Ocean of Peace Alliance / Veitacini Treaty paper.",
+    "document_filename": "fiji-australia-vuvale-union-submission.docx",
+    "sha256": "f62ae877f90e437583d9ecc2db29f3b11f20253c05b6feda573d7e694c3e8af0",
+    "checked": "2026-09-22",
+    "link_provenance": "Original supplied by the author; added to the web edition on 22 September 2026."
+  },
+  {
+    "id": 31,
+    "title": "Local government funding and financial sustainability",
+    "category": "Author documents",
+    "description": "Hayes, Luke Nathan. Local government funding and fiscal sustainability submission. Supporting documents and links.",
+    "links": [
+      {
+        "label": "Read original PDF",
+        "url": "documents/local-government-funding-submission.pdf"
+      }
+    ],
+    "status": "Document available",
+    "note": "Original 11-page PDF. Added to the web edition on 22 September 2026.",
+    "document_filename": "local-government-funding-submission.pdf",
+    "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+    "checked": "2026-09-22",
+    "link_provenance": "Original supplied by the author; added to the web edition on 22 September 2026."
+  },
+  {
+    "id": 32,
+    "title": "AI and data centres: shorter Senate submission",
+    "category": "Author documents",
+    "description": "Luke Nathan Hayes. Do Not Put All Our Eggs in One Basket: a federated sovereign AI and community compute proposal. Submission dated 24 August 2026 to the Senate Environment and Communications References Committee inquiry into artificial intelligence and data centres.",
+    "links": [
+      {
+        "label": "Download original Word document (.docx)",
+        "url": "documents/senate-ai-and-data-centres-submission.docx"
+      }
+    ],
+    "status": "Document available",
+    "note": "Unchanged Word revision 3, edited 27 August 2026. This is the shorter Senate submission; earlier copies and the longer discussion draft are not included.",
+    "document_filename": "senate-ai-and-data-centres-submission.docx",
+    "sha256": "1ab01da1abd6cf456c8cf345e09425d3c8cf59e892897ce750e75f815766ed65",
+    "checked": "2026-09-22",
+    "link_provenance": "Original supplied by the author; added to the web edition on 22 September 2026."
   }
 ]

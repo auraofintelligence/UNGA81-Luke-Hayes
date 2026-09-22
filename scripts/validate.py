@@ -36,7 +36,7 @@ for name,p in pages.items():
   if parsed.fragment and target.suffix=='.html' and target.name in pages:require(unquote(parsed.fragment) in pages[target.name].ids,f'{name}: missing anchor {url}')
 require(len(pages)==9,'Expected eight main pages and a 404 page')
 pdf=ROOT/'documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf'
-require(hashlib.sha256(pdf.read_bytes()).hexdigest()=='2ef53564995743044715b30d216d1998f4a08a3652074e29e4f137555566d7c2','Original PDF bytes changed')
+require(hashlib.sha256(pdf.read_bytes()).hexdigest()=='0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14','Original PDF bytes changed')
 content=json.loads((ROOT/'data/content.json').read_text(encoding='utf-8'))
 source=(ROOT/'data/source-transcript.txt').read_text(encoding='utf-8-sig')
 source=re.sub(r'A fair go in the age of intelligence\s*Joyful Responsible Abundance\s*\d+\s*','',source)
@@ -47,7 +47,7 @@ require(norm(body)==norm(rendered),'Web body differs from supplied document tran
 refs=json.loads((ROOT/'data/references.json').read_text(encoding='utf-8'))
 ids=[r['id'] for r in refs]
 require(len(ids)==len(set(ids)),'Duplicate reference IDs')
-require(set(range(1,30)).issubset(ids),'Missing original reference entries')
+require(set(range(1,32)).issubset(ids),'Missing original reference entries')
 for r in refs:
  require(bool(r['title'] and r['description'] and r['category'] and r['status']),f'Incomplete reference {r["id"]}')
  for l in r['links']:

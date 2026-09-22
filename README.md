@@ -22,26 +22,38 @@ This illustrated edition brings the full contribution together with its referenc
 | [Livelihoods and time](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/livelihoods.html) | Ownership, Mutual Futures, ready SET, Intermittent Retirement, adequate livelihoods and De-Slop. |
 | [Personal and civic intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/intelligence.html) | Aura, voluntary reflection, P4A, the Braided Economy and C-Hours. |
 | [GAJRA Earth](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/futures.html) | Locally rooted associations, a seven-part process and the proposed July 2035 gathering. |
-| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | All 29 original references, source links, document downloads, search and filters. |
+| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | All 31 references from the updated PDF plus the shorter AI submission, source links, document downloads, search and filters. |
 | [About and site map](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/about.html) | Authorship, source notes, image provenance, privacy and the full licence. |
 
 Every page has a unique GenAI hero, previous/next navigation and a floating return-to-top link. The favicon is a **garland of distinct flowers**, reflecting connection without assimilation.
 
 ## Original source and fidelity
 
-[Read or download the unchanged eight-page PDF](documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf).
+[Read or download the eight-page PDF with updated reference links](documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf).
 
-Original SHA-256: `2ef53564995743044715b30d216d1998f4a08a3652074e29e4f137555566d7c2`.
+Current PDF SHA-256: `0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14`.
+
+On 22 September 2026, the author supplied the "New Reference Links" edition. It replaces the earlier PDF at the same public address, with its bytes preserved unchanged. Its reading text is unchanged after layout normalisation; its references and clickable links are updated.
 
 The five reading chapters preserve the PDF’s body wording. Line and column breaks have been removed, lists made semantic, and sections grouped into web pages. Display titles, navigation, summaries, illustrations, links and clearly marked reading notes are web-edition additions. Validation compares the body against the transcript after normalising layout and punctuation. The PDF remains the authoritative copy.
 
-All 29 reference descriptions are retained. Broken filename line wraps in entries 17 to 19 have been joined. Added links are labelled when they are supporting sources, related projects or incomplete matches. This is a publication of the contribution, not an independent fact-check of every claim. Proposals and prototypes retain their stated status.
+All 31 reference descriptions from the current PDF are retained, with layout line wraps joined. Added links are labelled when they are supporting sources, related projects or incomplete matches. This is a publication of the contribution, not an independent fact-check of every claim. Proposals and prototypes retain their stated status.
 
 ## Included original papers
 
-Entries 17 to 19 contain one unchanged Word original each. AUKUS is dated 24 August 2026; Veitacini is Word revision 2 edited 28 August; BE LAU is revision 3 edited 27 August, including author edits absent from the earlier Markdown copy. Matching archive and local duplicates were omitted. These are the latest matching versions found in the checked local files; the numbered download copies cited by the PDF were not available for byte comparison.
+Entries 17 to 19 contain one unchanged Word original each. AUKUS is dated 24 August 2026; Veitacini is Word revision 2 edited 28 August; BE LAU is revision 3 edited 27 August, including author edits absent from the earlier Markdown copy. Matching archive and local duplicates were omitted. These are the latest matching versions found in the checked local files.
 
-[Document provenance and checksums](data/document-provenance.json). The similarly titled Senate AI submission and the separate Vuvale Union paper were not substituted. Word files can also be opened using the free LibreOffice suite.
+Three further papers were added on 22 September 2026, preserving their original bytes:
+
+| Reference | Document | Selected version |
+| --- | --- | --- |
+| 30 | [Fiji-Australia Vuvale Union](documents/fiji-australia-vuvale-union-submission.docx) | Word revision 3, edited 29 August 2026. |
+| 31 | [Local government funding and financial sustainability](documents/local-government-funding-submission.pdf) | Original 11-page PDF. |
+| 32 | [AI and data centres Senate submission](documents/senate-ai-and-data-centres-submission.docx) | Shorter submission, Word revision 3, edited 27 August 2026. |
+
+References 30 and 31 follow the updated PDF's numbering. Reference 32 is a web-edition addition. Earlier Markdown, archive and draft copies were omitted after comparison. The longer "Do Not Put All Our Eggs in One Basket" discussion draft is not included, as requested by the author.
+
+[Document provenance and checksums](data/document-provenance.json) records the selected versions. Word files can also be opened using the free LibreOffice suite.
 
 ## Adding a reference document
 
@@ -67,11 +79,11 @@ Keep the entry’s other fields, including its number and original description. 
 
 Edit `data/references.json`. Entries contain `id`, `title`, `category`, `description`, `links`, `status` and `note`. Confirm URLs before adding them, preferably using official institutional sources. Third-party publications can stay as links rather than copied files.
 
-Add new entries using the next unused number, starting at **30**. Preserve original numbers 1 to 29. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions.
+Add new entries using the next unused number, starting at **33**. Preserve existing numbers 1 to 32. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions.
 
 ```json
 {
-  "id": 30,
+  "id": 33,
   "title": "A clear source title",
   "category": "Author documents",
   "description": "What this source contributes to the discussion.",

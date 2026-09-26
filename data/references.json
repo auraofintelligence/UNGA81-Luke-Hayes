@@ -308,23 +308,23 @@
   },
   {
     "id": 20,
-    "title": "Strange but True",
+    "title": "Strange but True: Tech, art and ideas that'll help",
     "category": "Connected projects",
     "description": "Strange but True: Tech, art and ideas that'll help. Author's umbrella for technology, art and public-interest projects.",
     "links": [
       {
-        "label": "Strange but True public page",
+        "label": "Strange but True: Tech, art and ideas that'll help",
         "url": "https://auraofintelligence.github.io/strange-but-true/"
       },
       {
-        "label": "strange but true on GitHub",
+        "label": "Strange but True on GitHub",
         "url": "https://github.com/auraofintelligence/strange-but-true"
       }
     ],
     "status": "Project linked",
     "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "checked": "2026-09-26",
+    "link_provenance": "Updated at the author's request on 26 September 2026; supplied public destinations checked."
   },
   {
     "id": 21,
@@ -337,34 +337,46 @@
         "url": "https://auraofintelligence.github.io/mutual-futures/"
       },
       {
+        "label": "Related proposal: 500 Queens Venture Capital",
+        "url": "library.html#ref-33"
+      },
+      {
         "label": "mutual futures on GitHub",
         "url": "https://github.com/auraofintelligence/mutual-futures"
       }
     ],
     "status": "Project linked",
-    "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "note": "Explore Mutual Futures for shared ownership and business succession. The separate 500 Queens Venture Capital proposal at reference 33 connects through women's leadership, enterprise and access to capital.",
+    "checked": "2026-09-26",
+    "link_provenance": "Updated at the author's request on 26 September 2026; supplied public destinations checked."
   },
   {
     "id": 22,
-    "title": "Try Everything Once and ready SET",
+    "title": "Try Everything Once and ready SET Co-op",
     "category": "Connected projects",
     "description": "Try Everything Once; ready SET Co-op (ready sustainable employment and training cooperative). Supported work exploration, learning, workplaces and mentors.",
     "links": [
       {
-        "label": "ready SET Co-op public page",
+        "label": "ready SET Co-op Cultural Intelligence Node",
+        "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/index.html"
+      },
+      {
+        "label": "ready SET Co-op trust hub",
         "url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/"
       },
       {
-        "label": "ready set co op trust hub on GitHub",
+        "label": "ready SET Co-op Cultural Intelligence Node on GitHub",
+        "url": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node"
+      },
+      {
+        "label": "ready SET Co-op trust hub on GitHub",
         "url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub"
       }
     ],
     "status": "Partly linked",
-    "note": "Related ready SET public work is linked. A separate Try Everything Once resource remains to be added.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "note": "The newer Cultural Intelligence Node explores the missing middle of community-scale compute: shared local capability, cultural collaboration, employment and training on Minjerribah. The trust hub is also linked. A separate Try Everything Once resource remains to be added.",
+    "checked": "2026-09-26",
+    "link_provenance": "Updated at the author's request on 26 September 2026; supplied public destinations checked."
   },
   {
     "id": 23,
@@ -630,5 +642,29 @@
     "sha256": "1ab01da1abd6cf456c8cf345e09425d3c8cf59e892897ce750e75f815766ed65",
     "checked": "2026-09-22",
     "link_provenance": "Original supplied by the author; added to the web edition on 22 September 2026."
+  },
+  {
+    "id": 33,
+    "title": "500 Queens Venture Capital",
+    "category": "Connected projects",
+    "description": "A proposal to address inequality in women's leadership and women-led companies' access to venture capital. It connects capital, practical experience, mentoring and enterprise pathways to help more women become leaders and decision makers.",
+    "links": [
+      {
+        "label": "500 Queens Venture Capital public page",
+        "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/"
+      },
+      {
+        "label": "Related project: Mutual Futures",
+        "url": "library.html#ref-21"
+      },
+      {
+        "label": "500 Queens Venture Capital on GitHub",
+        "url": "https://github.com/auraofintelligence/500-Queens-VC-2026"
+      }
+    ],
+    "status": "Project linked",
+    "note": "A separate proposal related to Mutual Futures through leadership, business succession, ownership and enterprise. Added to the web edition; not an additional reference in the supplied PDF.",
+    "checked": "2026-09-26",
+    "link_provenance": "Project supplied by the author on 26 September 2026; public page and public repository verified."
   }
 ]

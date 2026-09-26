@@ -22,7 +22,7 @@ This illustrated edition brings the full contribution together with its referenc
 | [Livelihoods and time](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/livelihoods.html) | Ownership, Mutual Futures, ready SET, Intermittent Retirement, adequate livelihoods and De-Slop. |
 | [Personal and civic intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/intelligence.html) | Aura, voluntary reflection, P4A, the Braided Economy and C-Hours. |
 | [GAJRA Earth](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/futures.html) | Locally rooted associations, a seven-part process and the proposed July 2035 gathering. |
-| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | All 31 references from the updated PDF plus the shorter AI submission, source links, document downloads, search and filters. |
+| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | All 31 references from the updated PDF plus the shorter AI submission and 500 Queens Venture Capital, source links, document downloads, search and filters. |
 | [About and site map](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/about.html) | Authorship, source notes, image provenance, privacy and the full licence. |
 
 Every page has a unique GenAI hero, previous/next navigation and a floating return-to-top link. The favicon is a **garland of distinct flowers**, reflecting connection without assimilation.
@@ -79,11 +79,11 @@ Keep the entry’s other fields, including its number and original description. 
 
 Edit `data/references.json`. Entries contain `id`, `title`, `category`, `description`, `links`, `status` and `note`. Confirm URLs before adding them, preferably using official institutional sources. Third-party publications can stay as links rather than copied files.
 
-Add new entries using the next unused number, starting at **33**. Preserve existing numbers 1 to 32. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions.
+Add new entries using the next unused number, starting at **34**. Preserve existing numbers 1 to 33. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions.
 
 ```json
 {
-  "id": 33,
+  "id": 34,
   "title": "A clear source title",
   "category": "Author documents",
   "description": "What this source contributes to the discussion.",
@@ -97,7 +97,7 @@ An entry can have several links. Local paths begin with `documents/`; external U
 
 Entries 13, 22 and 23 have partial links with explanatory notes. The separate 2016 WEF scenario, Try Everything Once and time/intelligence/income resources remain to be added. The C-Hour introduction now has its public page above its repository link. Unavailable project Pages addresses are omitted; working repositories remain linked.
 
-Reference links were refreshed on 26 September 2026: Aura links to its main overview, the Aura Matrix Studio app in progress, the planned local Aura Genesis implementation at 82 Claytons Road in Amity, and the Aura Genesis page on P4A; P4A uses `p4a.xyz` and the three cinema repositories; GAJRA Earth includes Infinity, the Claude build and the public hub; local government links first to Parliament's official submissions list, where Luke Nathan Hayes is submission 2. Public project pages appear before their GitHub repositories.
+Reference links were refreshed on 26 September 2026: Aura links to its main overview, the Aura Matrix Studio app in progress, the planned local Aura Genesis implementation at 82 Claytons Road in Amity, and the Aura Genesis page on P4A; P4A uses `p4a.xyz` and the three cinema repositories; GAJRA Earth includes Infinity, the Claude build and the public hub; local government links first to Parliament's official submissions list, where Luke Nathan Hayes is submission 2. Public project pages appear before their GitHub repositories. ready SET Co-op leads with its newer Cultural Intelligence Node, focused on community-scale compute. The separate 500 Queens Venture Capital proposal is reference 33, cross-linked with Mutual Futures. The About page links to Luke's world of work experience and Strange but True.
 
 ## Design, accessibility and privacy
 

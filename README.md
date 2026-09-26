@@ -22,7 +22,7 @@ This illustrated edition brings the full contribution together with its referenc
 | [Livelihoods and time](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/livelihoods.html) | Ownership, Mutual Futures, ready SET, Intermittent Retirement, adequate livelihoods and De-Slop. |
 | [Personal and civic intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/intelligence.html) | Aura, voluntary reflection, P4A, the Braided Economy and C-Hours. |
 | [GAJRA Earth](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/futures.html) | Locally rooted associations, a seven-part process and the proposed July 2035 gathering. |
-| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | All 31 references from the updated PDF plus the shorter AI submission and 500 Queens Venture Capital, source links, document downloads, search and filters. |
+| [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | 33 reference entries, including all 31 from the updated PDF plus the shorter AI submission and 500 Queens Venture Capital, with source links, document downloads, search and filters. |
 | [About and site map](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/about.html) | Authorship, source notes, image provenance, privacy and the full licence. |
 
 Every page has a unique GenAI hero, previous/next navigation and a floating return-to-top link. The favicon is a **garland of distinct flowers**, reflecting connection without assimilation.
@@ -79,7 +79,7 @@ Keep the entry’s other fields, including its number and original description. 
 
 Edit `data/references.json`. Entries contain `id`, `title`, `category`, `description`, `links`, `status` and `note`. Confirm URLs before adding them, preferably using official institutional sources. Third-party publications can stay as links rather than copied files.
 
-Add new entries using the next unused number, starting at **34**. Preserve existing numbers 1 to 33. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions.
+Add new entries using the next unused number, starting at **34**. Preserve existing numbers 1 to 33. Use one of the existing categories: `Institutional sources`, `Author documents` or `Connected projects`. Search automatically includes additions. Website reference totals are calculated from the register when the site builds.
 
 ```json
 {

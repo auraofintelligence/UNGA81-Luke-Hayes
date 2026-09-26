@@ -448,18 +448,34 @@
         "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
       },
       {
+        "label": "Aura Genesis: planned local implementation at Amity",
+        "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/"
+      },
+      {
+        "label": "Aura Genesis on P4A",
+        "url": "https://p4a.xyz/pages/aura-genesis.html"
+      },
+      {
         "label": "Aura of Intelligence overview on GitHub",
         "url": "https://github.com/auraofintelligence/auraofintelligence.github.io"
       },
       {
         "label": "Aura of Intelligence app on GitHub",
         "url": "https://github.com/auraofintelligence/aura-matrix-studio"
+      },
+      {
+        "label": "Amity implementation proposal on GitHub",
+        "url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity"
+      },
+      {
+        "label": "P4A Aura Genesis source on GitHub",
+        "url": "https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/pages/aura-genesis.html"
       }
     ],
     "status": "Project linked",
-    "note": "The overview introduces Aura of Intelligence. Aura Matrix Studio is the app in progress.",
+    "note": "The overview introduces Aura of Intelligence, and Aura Matrix Studio is the app in progress. The 82 Claytons Road, Amity proposal is a planned local implementation of Aura Genesis. The P4A Aura Genesis page explores its civic, research and storytelling directions.",
     "checked": "2026-09-26",
-    "link_provenance": "Destinations and labels confirmed by the author on 26 September 2026; both public pages returned HTTP 200 and their repositories are public."
+    "link_provenance": "Aura overview, app and Amity roles confirmed by the author on 26 September 2026. Public pages returned HTTP 200; the P4A Aura Genesis page and matching public source repositories were checked."
   },
   {
     "id": 27,

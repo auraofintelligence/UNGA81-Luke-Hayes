@@ -440,26 +440,26 @@
     "description": "Aura of Intelligence; Aura Genesis. Personal digital twins, self-sovereignty and voluntary reflection supporting human self-alignment and AI alignment.",
     "links": [
       {
-        "label": "Aura of Intelligence Pathways public page",
-        "url": "https://auraofintelligence.github.io/aura-of-intelligence-pathways/"
+        "label": "Aura of Intelligence overview",
+        "url": "https://auraofintelligence.github.io/"
       },
       {
-        "label": "Aura Genesis public page",
-        "url": "https://auraofintelligence.github.io/aura-genesis/"
+        "label": "Aura of Intelligence app in progress",
+        "url": "https://auraofintelligence.github.io/aura-matrix-studio/"
       },
       {
-        "label": "aura of intelligence pathways on GitHub",
-        "url": "https://github.com/auraofintelligence/aura-of-intelligence-pathways"
+        "label": "Aura of Intelligence overview on GitHub",
+        "url": "https://github.com/auraofintelligence/auraofintelligence.github.io"
       },
       {
-        "label": "aura genesis on GitHub",
-        "url": "https://github.com/auraofintelligence/aura-genesis"
+        "label": "Aura of Intelligence app on GitHub",
+        "url": "https://github.com/auraofintelligence/aura-matrix-studio"
       }
     ],
     "status": "Project linked",
-    "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "note": "The overview introduces Aura of Intelligence. Aura Matrix Studio is the app in progress.",
+    "checked": "2026-09-26",
+    "link_provenance": "Destinations and labels confirmed by the author on 26 September 2026; both public pages returned HTTP 200 and their repositories are public."
   },
   {
     "id": 27,
@@ -468,18 +468,34 @@
     "description": "P4A (proposed Purple Party for Australia). Civic understanding, legal reflection, modelling, simulation, humour and the proposed cyber-republic horizon.",
     "links": [
       {
-        "label": "P4A public page",
-        "url": "https://auraofintelligence.github.io/p4a_xyz/"
+        "label": "P4A Australia: p4a.xyz",
+        "url": "https://p4a.xyz/"
       },
       {
-        "label": "p4a xyz on GitHub",
-        "url": "https://github.com/auraofintelligence/p4a_xyz"
+        "label": "P4A Oceania public page",
+        "url": "https://auraofintelligence.github.io/p4a-oceania-cinema/"
+      },
+      {
+        "label": "P4A Native Nations public page",
+        "url": "https://auraofintelligence.github.io/p4a-native-nations-cinema/"
+      },
+      {
+        "label": "P4A Australia on GitHub",
+        "url": "https://github.com/auraofintelligence/p4a-xyz-cinema"
+      },
+      {
+        "label": "P4A Oceania on GitHub",
+        "url": "https://github.com/auraofintelligence/p4a-oceania-cinema"
+      },
+      {
+        "label": "P4A Native Nations on GitHub",
+        "url": "https://github.com/auraofintelligence/p4a-native-nations-cinema"
       }
     ],
     "status": "Project linked",
-    "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "note": "P4A Australia is published at p4a.xyz from the p4a-xyz-cinema repository. The related Oceania and Native Nations sites and repositories are included here.",
+    "checked": "2026-09-26",
+    "link_provenance": "Corrected at the author's request on 26 September 2026; public sites returned HTTP 200 and public repository identities were checked."
   },
   {
     "id": 28,
@@ -488,14 +504,18 @@
     "description": "The Braided Economy; Community-Hours (C-Hours). Separate records of money, verified voluntary contribution and outcomes.",
     "links": [
       {
-        "label": "C Hour introduction on GitHub",
+        "label": "C-Hour Introduction public page",
+        "url": "https://auraofintelligence.github.io/C-Hour-introduction/"
+      },
+      {
+        "label": "C-Hour Introduction on GitHub",
         "url": "https://github.com/auraofintelligence/C-Hour-introduction"
       }
     ],
-    "status": "Partly linked",
-    "note": "The C-Hour repository is linked. No working GitHub Pages address is confirmed; a separate Braided Economy resource remains to be added.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "status": "Project linked",
+    "note": "The C-Hour public introduction explores Community Hours, the Braided Economy and shared capability. One C-hour recognises one verified hour of voluntary contribution, with no monetary equivalent.",
+    "checked": "2026-09-26",
+    "link_provenance": "Corrected at the author's request on 26 September 2026; public sites returned HTTP 200 and public repository identities were checked."
   },
   {
     "id": 29,
@@ -504,18 +524,34 @@
     "description": "G.A.J.R.A. Earth, Global Association for Joyful Responsible Abundance on Earth. Cross-cultural inquiry, practical cooperation and the proposed July 2035 Past, Present and Future gathering.",
     "links": [
       {
+        "label": "GAJRA Earth Infinity public page",
+        "url": "https://auraofintelligence.github.io/GAJRA-earth-infinity/"
+      },
+      {
+        "label": "GAJRA Earth Claude build public page",
+        "url": "https://auraofintelligence.github.io/gajra-earth-claude-build/"
+      },
+      {
         "label": "GAJRA Earth public hub public page",
         "url": "https://auraofintelligence.github.io/gajra-earth-public-hub/"
       },
       {
-        "label": "gajra earth public hub on GitHub",
+        "label": "GAJRA Earth Infinity on GitHub",
+        "url": "https://github.com/auraofintelligence/GAJRA-earth-infinity"
+      },
+      {
+        "label": "GAJRA Earth Claude build on GitHub",
+        "url": "https://github.com/auraofintelligence/gajra-earth-claude-build"
+      },
+      {
+        "label": "GAJRA Earth public hub on GitHub",
         "url": "https://github.com/auraofintelligence/gajra-earth-public-hub"
       }
     ],
     "status": "Project linked",
-    "note": "Public project pages and repositories. Proposals and prototypes retain their stated development status.",
-    "checked": "2026-09-21",
-    "link_provenance": "Links supplied or confirmed by the author on 21 September 2026."
+    "note": "Explore the Infinity site, the separate Luke and Claude build, and the public hub. Each has its own public site and repository.",
+    "checked": "2026-09-26",
+    "link_provenance": "Corrected at the author's request on 26 September 2026; public sites returned HTTP 200 and public repository identities were checked."
   },
   {
     "id": 30,
@@ -537,21 +573,29 @@
   },
   {
     "id": 31,
-    "title": "Local government funding and financial sustainability",
+    "title": "Local government funding and fiscal sustainability",
     "category": "Author documents",
     "description": "Hayes, Luke Nathan. Local government funding and fiscal sustainability submission. Supporting documents and links.",
     "links": [
       {
-        "label": "Read original PDF",
+        "label": "Parliament submissions: Luke Nathan Hayes, submission 2",
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House/Regional_Development_Infrastructure_and_Transport/LocalGovernmentFunding/Submissions"
+      },
+      {
+        "label": "Read submission 2 on Parliament's website (PDF)",
+        "url": "https://www.aph.gov.au/DocumentStore.ashx?id=b0bb44ad-3515-4c22-bdb7-d5db605f6e0a&subId=780115"
+      },
+      {
+        "label": "Read the local original PDF",
         "url": "documents/local-government-funding-submission.pdf"
       }
     ],
     "status": "Document available",
-    "note": "Original 11-page PDF. Added to the web edition on 22 September 2026.",
+    "note": "The federal inquiry lists Mr Luke Nathan Hayes as submission 2, near the top of the first submissions page. The official Parliament PDF and the unchanged local 11-page original are both linked.",
     "document_filename": "local-government-funding-submission.pdf",
     "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
-    "checked": "2026-09-22",
-    "link_provenance": "Original supplied by the author; added to the web edition on 22 September 2026."
+    "checked": "2026-09-26",
+    "link_provenance": "Corrected at the author's request on 26 September 2026. Public sites and repository identities checked; Parliament submission 2 confirmed in its public submissions table."
   },
   {
     "id": 32,

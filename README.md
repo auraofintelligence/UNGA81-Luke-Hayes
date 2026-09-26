@@ -95,7 +95,9 @@ Add new entries using the next unused number, starting at **33**. Preserve exist
 
 An entry can have several links. Local paths begin with `documents/`; external URLs begin with `https://`. References have stable addresses such as [`library.html#ref-17`](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html#ref-17).
 
-Entries 13, 22, 23 and 28 have partial links with explanatory notes. The separate 2016 WEF scenario, Try Everything Once, time/intelligence/income resources and Braided Economy resource remain to be added. Unavailable project Pages addresses are omitted; working repositories remain linked.
+Entries 13, 22 and 23 have partial links with explanatory notes. The separate 2016 WEF scenario, Try Everything Once and time/intelligence/income resources remain to be added. The C-Hour introduction now has its public page above its repository link. Unavailable project Pages addresses are omitted; working repositories remain linked.
+
+Reference links were refreshed on 26 September 2026: Aura links to its main overview and the Aura Matrix Studio app in progress; P4A uses `p4a.xyz` and the three cinema repositories; GAJRA Earth includes Infinity, the Claude build and the public hub; local government links first to Parliament's official submissions list, where Luke Nathan Hayes is submission 2. Public project pages appear before their GitHub repositories.
 
 ## Design, accessibility and privacy
 
